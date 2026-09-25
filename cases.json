@@ -1,0 +1,1990 @@
+{
+  "schema_version": 1,
+  "default_language": "en",
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "curated_on": "2026-09-25",
+  "inclusion_rule": "Original X video post with reported views strictly greater than 10,000 at the recorded check time.",
+  "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
+  "media_policy": "Original videos and thumbnails remain hosted by their creators/platform. No videos were downloaded or reuploaded.",
+  "tool_disclosure_scope": "Tools and auxiliary models are taken from creator posts, source repositories or shared briefs. Their actual execution was not independently verified. Empty lists mean no specific additional tools or models were identified, not that none were used.",
+  "categories": [
+    {
+      "id": "product",
+      "name": {
+        "en": "Product demos & advertising",
+        "zh-CN": "产品演示与广告"
+      }
+    },
+    {
+      "id": "motion",
+      "name": {
+        "en": "Motion graphics & UI",
+        "zh-CN": "动态图形与界面动效"
+      }
+    },
+    {
+      "id": "education",
+      "name": {
+        "en": "Education & explainers",
+        "zh-CN": "科普教学与知识讲解"
+      }
+    },
+    {
+      "id": "stories",
+      "name": {
+        "en": "Characters & animated stories",
+        "zh-CN": "角色与叙事动画"
+      }
+    },
+    {
+      "id": "art",
+      "name": {
+        "en": "Art, 3D worlds & simulations",
+        "zh-CN": "艺术、三维场景与模拟"
+      }
+    },
+    {
+      "id": "production",
+      "name": {
+        "en": "Music, documentaries & video editing",
+        "zh-CN": "音乐、纪录片与视频编辑"
+      }
+    },
+    {
+      "id": "comparisons",
+      "name": {
+        "en": "Model comparisons & tests",
+        "zh-CN": "模型对比与测试"
+      }
+    }
+  ],
+  "cases": [
+    {
+      "id": "2102787937482252537",
+      "category": "product",
+      "title": {
+        "en": "Inference startup launch explainer",
+        "zh-CN": "推理服务创业公司发布解释视频"
+      },
+      "description": {
+        "en": "A 26-second launch video explaining an inference startup, with the creator's short prompt published in the post.",
+        "zh-CN": "一支介绍推理服务创业公司的 26 秒发布视频，原帖公开作者使用的简短提示词。"
+      },
+      "creator": {
+        "name": "Deedy",
+        "handle": "deedydas"
+      },
+      "original_post_url": "https://x.com/deedydas/status/2102787937482252537",
+      "demo_url": "https://x.com/deedydas/status/2102787937482252537/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102787906494668800/vid/avc1/1920x1080/JZlNPRlJmaOn75P8.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102787906494668800/img/agrbxvHg24w3nJQD.jpg",
+      "duration_seconds": 26,
+      "views": 329471,
+      "views_checked_at": "2026-09-25T14:54:18Z",
+      "views_source_url": "https://api.fxtwitter.com/deedydas/status/2102787937482252537",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/deedydas/status/2102787937482252537",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/deedydas/status/2102787937482252537&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/deedydas/status/2102787937482252537",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 1
+    },
+    {
+      "id": "2102477340920152162",
+      "category": "product",
+      "title": {
+        "en": "Website redesign iterations turned into a trailer",
+        "zh-CN": "把网站改版迭代汇成预告片"
+      },
+      "description": {
+        "en": "After iterating on a personal-site redesign, the creator asked Opus 5.5 to turn the variations into a trailer.",
+        "zh-CN": "个人网站经过多轮改版后，作者让 Opus 5.5 将不同方案剪成一支预告片。"
+      },
+      "creator": {
+        "name": "Thariq",
+        "handle": "trq212"
+      },
+      "original_post_url": "https://x.com/trq212/status/2102477340920152162",
+      "demo_url": "https://x.com/trq212/status/2102477340920152162/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102477300990357504/img/j_7J8e1gNLVcMoT1.jpg",
+      "duration_seconds": 95.475,
+      "views": 179173,
+      "views_checked_at": "2026-09-25T14:54:14Z",
+      "views_source_url": "https://api.fxtwitter.com/trq212/status/2102477340920152162",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/trq212/status/2102477340920152162&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/trq212/status/2102477340920152162",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 2
+    },
+    {
+      "id": "2102441708395041170",
+      "category": "product",
+      "title": {
+        "en": "Shotbase product launch video",
+        "zh-CN": "Shotbase 产品发布视频"
+      },
+      "description": {
+        "en": "A Shotbase product launch video made with Opus 5.5 and HyperFrames, according to the creator.",
+        "zh-CN": "作者展示使用 Opus 5.5 与 HyperFrames 制作的 Shotbase 产品发布视频。"
+      },
+      "creator": {
+        "name": "Miguel Ángel",
+        "handle": "Miguel07Code"
+      },
+      "original_post_url": "https://x.com/Miguel07Code/status/2102441708395041170",
+      "demo_url": "https://x.com/Miguel07Code/status/2102441708395041170/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102441459496697856/vid/avc1/1920x1080/tiZHwMtGZWtWu30v.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102441459496697856/img/GOBQpkKB-RAUZ7ml.jpg",
+      "duration_seconds": 58.261,
+      "views": 147802,
+      "views_checked_at": "2026-09-25T14:54:12Z",
+      "views_source_url": "https://api.fxtwitter.com/Miguel07Code/status/2102441708395041170",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "HyperFrames"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Miguel07Code/status/2102441708395041170&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Miguel07Code/status/2102441708395041170",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 3
+    },
+    {
+      "id": "2102636308707287201",
+      "category": "product",
+      "title": {
+        "en": "An editable After Effects launch ad",
+        "zh-CN": "可继续编辑的 After Effects 发布广告"
+      },
+      "description": {
+        "en": "The creator demonstrates a launch video made by having Claude operate Higgsfield and After Effects.",
+        "zh-CN": "作者展示由 Claude 操作 Higgsfield 和 After Effects 制作的发布广告。"
+      },
+      "creator": {
+        "name": "SEIIIRU😈AIを使う映像クリエイター",
+        "handle": "seiiiiiiiiiiru"
+      },
+      "original_post_url": "https://x.com/seiiiiiiiiiiru/status/2102636308707287201",
+      "demo_url": "https://x.com/seiiiiiiiiiiru/status/2102636308707287201/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102633196349485056/vid/avc1/1080x1920/Ncdj3LFvJFFclaZu.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102633196349485056/img/n04PyuKkQ7TyLAQn.jpg",
+      "duration_seconds": 30,
+      "views": 40651,
+      "views_checked_at": "2026-09-25T14:54:15Z",
+      "views_source_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2102636308707287201",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Higgsfield",
+        "After Effects"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/seiiiiiiiiiiru/status/2102636308707287201&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2102636308707287201",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 4
+    },
+    {
+      "id": "2103227982592831846",
+      "category": "product",
+      "title": {
+        "en": "Narration-driven After Effects commercial",
+        "zh-CN": "以旁白驱动的 After Effects 广告"
+      },
+      "description": {
+        "en": "A creator combines generated narration and visual assets with Claude-controlled After Effects to assemble an advertisement.",
+        "zh-CN": "创作者将生成旁白与视觉素材交给 Claude，操作 After Effects 完成广告。"
+      },
+      "creator": {
+        "name": "SEIIIRU😈AIを使う映像クリエイター",
+        "handle": "seiiiiiiiiiiru"
+      },
+      "original_post_url": "https://x.com/seiiiiiiiiiiru/status/2103227982592831846",
+      "demo_url": "https://x.com/seiiiiiiiiiiru/status/2103227982592831846/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103139866519498752/vid/avc1/1920x1080/qFe_AngQvV_CRQDV.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103139866519498752/img/lvT55SPfsA4hgHZQ.jpg",
+      "duration_seconds": 28.544,
+      "views": 38346,
+      "views_checked_at": "2026-09-25T14:54:14Z",
+      "views_source_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2103227982592831846",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [
+        "Gemini 3.8 Flash TTS"
+      ],
+      "tools_reported": [
+        "Gemini 3.8 Flash TTS",
+        "Magnific",
+        "Higgsfield",
+        "After Effects"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/seiiiiiiiiiiru/status/2103227982592831846&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2103227982592831846",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 5
+    },
+    {
+      "id": "2102766871007436993",
+      "category": "product",
+      "title": {
+        "en": "BLVCKOUT unofficial fan commercial",
+        "zh-CN": "BLVCKOUT 非官方粉丝广告"
+      },
+      "description": {
+        "en": "A 30-second fan video with Opus-written scripting and animation plus external image, voice and music tools.",
+        "zh-CN": "30 秒粉丝视频：Opus 负责台本和动画，图片、声音与音乐结合其他工具。"
+      },
+      "creator": {
+        "name": "Yasutaka Nishii",
+        "handle": "ystknsh"
+      },
+      "original_post_url": "https://x.com/ystknsh/status/2102766871007436993",
+      "demo_url": "https://x.com/ystknsh/status/2102766871007436993/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102766753185234944/vid/avc1/1280x720/xcGLi8UJ2ya_kG2R.mp4?tag=14",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102766753185234944/img/nODn581rp6PulfEW.jpg",
+      "duration_seconds": 30,
+      "views": 17310,
+      "views_checked_at": "2026-09-25T14:54:16Z",
+      "views_source_url": "https://api.fxtwitter.com/ystknsh/status/2102766871007436993",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [
+        "Gemini (image and voice; variant not specified)"
+      ],
+      "tools_reported": [
+        "MulmoCast",
+        "Gemini",
+        "ElevenLabs"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/ystknsh/status/2102766871007436993&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/ystknsh/status/2102766871007436993",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 6
+    },
+    {
+      "id": "2103315922098470926",
+      "category": "motion",
+      "title": {
+        "en": "A 15-second motion-design showreel",
+        "zh-CN": "15 秒动态图形作品集"
+      },
+      "description": {
+        "en": "A short motion-graphics showreel accompanied by the exact one-sentence request used by its creator.",
+        "zh-CN": "短篇动态图形作品集，作者在原帖公开了一句式创作要求。"
+      },
+      "creator": {
+        "name": "Stephan Livera",
+        "handle": "stephanlivera"
+      },
+      "original_post_url": "https://x.com/stephanlivera/status/2103315922098470926",
+      "demo_url": "https://x.com/stephanlivera/status/2103315922098470926/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103315748496302080/vid/avc1/1920x1080/Ug6RUqJ59vKTsnPX.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103315748496302080/img/eScXkusmi5doSQFo.jpg",
+      "duration_seconds": 15,
+      "views": 379188,
+      "views_checked_at": "2026-09-25T14:54:12Z",
+      "views_source_url": "https://api.fxtwitter.com/stephanlivera/status/2103315922098470926",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/stephanlivera/status/2103315922098470926",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/stephanlivera/status/2103315922098470926&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/stephanlivera/status/2103315922098470926",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 7
+    },
+    {
+      "id": "2103273003555402193",
+      "category": "motion",
+      "title": {
+        "en": "A seamless UI morph loop",
+        "zh-CN": "无缝 UI 形态变换循环"
+      },
+      "description": {
+        "en": "A 14-second UI motion study whose post includes a detailed, reusable prompt and rendering recipe.",
+        "zh-CN": "14 秒 UI 动效作品；原帖公开详细提示词与渲染方法，可作为复现入口。"
+      },
+      "creator": {
+        "name": "zero",
+        "handle": "twoclipping"
+      },
+      "original_post_url": "https://x.com/twoclipping/status/2103273003555402193",
+      "demo_url": "https://x.com/twoclipping/status/2103273003555402193/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/1440x1440/DMnmDsC9z0gcgSUX.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103272964967804928/img/DTuQzS4NOGKMbTDA.jpg",
+      "duration_seconds": 14,
+      "views": 358834,
+      "views_checked_at": "2026-09-25T14:54:12Z",
+      "views_source_url": "https://api.fxtwitter.com/twoclipping/status/2103273003555402193",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "HTML",
+        "Playwright",
+        "FFmpeg",
+        "NumPy"
+      ],
+      "prompt_or_brief_url": "https://x.com/twoclipping/status/2103273003555402193",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/twoclipping/status/2103273003555402193&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/twoclipping/status/2103273003555402193",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 8
+    },
+    {
+      "id": "2102591147927654847",
+      "category": "education",
+      "title": {
+        "en": "Interactive Camera Lens Lab",
+        "zh-CN": "交互式相机镜头实验室"
+      },
+      "description": {
+        "en": "A camera-focus teaching demo where turning a focus ring shifts the glass elements and the plane of sharp focus; a live lab is linked.",
+        "zh-CN": "通过转动对焦环观察镜片移动与清晰焦平面变化的摄影教学演示，作者附在线实验室。"
+      },
+      "creator": {
+        "name": "Ryan Sael",
+        "handle": "RyanSael"
+      },
+      "original_post_url": "https://x.com/RyanSael/status/2102591147927654847",
+      "demo_url": "https://x.com/RyanSael/status/2102591147927654847",
+      "video_url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1920x1080/0zt2fNiA4QMgvhkM.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg",
+      "duration_seconds": 32,
+      "views": 720893,
+      "views_checked_at": "2026-09-25T14:58:19.246283Z",
+      "views_source_url": "https://api.fxtwitter.com/RyanSael/status/2102591147927654847",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/RyanSael/status/2102591147927654847&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/RyanSael/status/2102591147927654847",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 9
+    },
+    {
+      "id": "2103141339651350646",
+      "category": "education",
+      "title": {
+        "en": "Research paper turned into an animated explainer",
+        "zh-CN": "研究论文变成动画讲解"
+      },
+      "description": {
+        "en": "An animated summary of the paper Regularized Recursive Self Improvement of Agent Harnesses, presented as an Opus 5.5 experiment.",
+        "zh-CN": "以动画形式讲解论文《Regularized Recursive Self Improvement of Agent Harnesses》，作者称由 Opus 5.5 制作。"
+      },
+      "creator": {
+        "name": "Deedy",
+        "handle": "deedydas"
+      },
+      "original_post_url": "https://x.com/deedydas/status/2103141339651350646",
+      "demo_url": "https://x.com/deedydas/status/2103141339651350646/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103141174626439168/vid/avc1/1920x1080/F3WFzkZrrP9a91VS.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103141174626439168/img/BAO-gQaosfSsiVNq.jpg",
+      "duration_seconds": 518.954,
+      "views": 275249,
+      "views_checked_at": "2026-09-25T14:54:19Z",
+      "views_source_url": "https://api.fxtwitter.com/deedydas/status/2103141339651350646",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/deedydas/status/2103141339651350646&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/deedydas/status/2103141339651350646",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 10
+    },
+    {
+      "id": "2102844654169575547",
+      "category": "education",
+      "title": {
+        "en": "A Short History of AI",
+        "zh-CN": "人工智能发展史短片"
+      },
+      "description": {
+        "en": "A three-minute code-rendered AI history film using Remotion, drawn graphics, synthesized music, and an open-source TTS voice.",
+        "zh-CN": "三分钟代码渲染的 AI 发展史短片，组合 Remotion、绘制图形、合成音乐与开源 TTS 配音。"
+      },
+      "creator": {
+        "name": "Chubby♨️",
+        "handle": "kimmonismus"
+      },
+      "original_post_url": "https://x.com/kimmonismus/status/2102844654169575547",
+      "demo_url": "https://x.com/kimmonismus/status/2102844654169575547",
+      "video_url": "https://video.twimg.com/amplify_video/2102844491820670976/vid/avc1/1920x1080/JciZjVTMqHe6HsqX.mp4?tag=16",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg",
+      "duration_seconds": 180.053,
+      "views": 161401,
+      "views_checked_at": "2026-09-25T14:58:16.706208Z",
+      "views_source_url": "https://api.fxtwitter.com/kimmonismus/status/2102844654169575547",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Code",
+        "Remotion",
+        "React",
+        "TypeScript",
+        "SVG",
+        "Canvas",
+        "Python",
+        "open-source TTS"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/kimmonismus/status/2102844654169575547&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/kimmonismus/status/2102844654169575547",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 11
+    },
+    {
+      "id": "2102583898865873225",
+      "category": "education",
+      "title": {
+        "en": "5,000 Years of Chinese History",
+        "zh-CN": "中华五千年历史速览"
+      },
+      "description": {
+        "en": "A 2:38 illustrated history recap made with Opus 5.5; the creator published the short prompt separately.",
+        "zh-CN": "用 Opus 5.5 制作的 2 分 38 秒中华历史动画，作者另公开了一句话提示词。"
+      },
+      "creator": {
+        "name": "WY",
+        "handle": "akokoi1"
+      },
+      "original_post_url": "https://x.com/akokoi1/status/2102583898865873225",
+      "demo_url": "https://x.com/akokoi1/status/2102583898865873225",
+      "video_url": "https://video.twimg.com/amplify_video/2102583173507158016/vid/avc1/1926x1080/SrxJejnQ4gatEQAi.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg",
+      "duration_seconds": 157.593,
+      "views": 151097,
+      "views_checked_at": "2026-09-25T14:58:16.805770Z",
+      "views_source_url": "https://api.fxtwitter.com/akokoi1/status/2102583898865873225",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/akokoi1/status/2102584165220962502",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/akokoi1/status/2102583898865873225&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102583898865873225",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 12
+    },
+    {
+      "id": "2102606609574941028",
+      "category": "education",
+      "title": {
+        "en": "Atmospheric Circulation Explained",
+        "zh-CN": "大气环流知识讲解"
+      },
+      "description": {
+        "en": "A nearly five-minute geography explainer with a published workflow for narration, bilingual subtitles, and video export.",
+        "zh-CN": "近五分钟的大气环流讲解视频，原帖公开了配音、双语字幕和视频导出的工作流。"
+      },
+      "creator": {
+        "name": "WY",
+        "handle": "akokoi1"
+      },
+      "original_post_url": "https://x.com/akokoi1/status/2102606609574941028",
+      "demo_url": "https://x.com/akokoi1/status/2102606609574941028",
+      "video_url": "https://video.twimg.com/amplify_video/2102600725981446144/vid/avc1/1920x1080/aI1wVJM8-CwO-gsY.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102600725981446144/img/CLPpa3fm0WFkm7U1.jpg",
+      "duration_seconds": 288.133,
+      "views": 131166,
+      "views_checked_at": "2026-09-25T14:58:16.742743Z",
+      "views_source_url": "https://api.fxtwitter.com/akokoi1/status/2102606609574941028",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Code",
+        "TTS API",
+        "unknown drawing stack"
+      ],
+      "prompt_or_brief_url": "https://x.com/akokoi1/status/2102606609574941028",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/akokoi1/status/2102606609574941028&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102606609574941028",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 13
+    },
+    {
+      "id": "2102853258582880547",
+      "category": "education",
+      "title": {
+        "en": "Cocktail Recipe Motion Graphic",
+        "zh-CN": "鸡尾酒配方动态图解"
+      },
+      "description": {
+        "en": "A 30-second recipe explainer rendered in HTML from one reference image; the full task prompt is included in the post.",
+        "zh-CN": "从一张参考图生成 30 秒 HTML 鸡尾酒配方讲解，原帖附完整任务提示词。"
+      },
+      "creator": {
+        "name": "Rory Flynn",
+        "handle": "Ror_Fly"
+      },
+      "original_post_url": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "demo_url": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "video_url": "https://video.twimg.com/amplify_video/2102853041246347264/vid/avc1/1080x1080/gHD5YPPHdPJDh8GO.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg",
+      "duration_seconds": 30,
+      "views": 69875,
+      "views_checked_at": "2026-09-25T14:58:16.797942Z",
+      "views_source_url": "https://api.fxtwitter.com/Ror_Fly/status/2102853258582880547",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "HTML",
+        "JavaScript"
+      ],
+      "prompt_or_brief_url": "https://x.com/Ror_Fly/status/2102853258582880547",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Ror_Fly/status/2102853258582880547&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Ror_Fly/status/2102853258582880547",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 14
+    },
+    {
+      "id": "2102722719502704941",
+      "category": "education",
+      "title": {
+        "en": "Special Relativity in 46 Seconds",
+        "zh-CN": "46 秒讲解特殊相对论"
+      },
+      "description": {
+        "en": "A Japanese paper-cutout-style explanation of the twin paradox, with visuals and audio generated in JavaScript.",
+        "zh-CN": "用日语与剪纸风动画讲解双生子佯谬，画面、配乐和音效由 JavaScript 生成。"
+      },
+      "creator": {
+        "name": "チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》",
+        "handle": "masahirochaen"
+      },
+      "original_post_url": "https://x.com/masahirochaen/status/2102722719502704941",
+      "demo_url": "https://x.com/masahirochaen/status/2102722719502704941",
+      "video_url": "https://video.twimg.com/amplify_video/2102722648593891328/vid/avc1/1080x1080/uhM8s1mtirGfFr2X.mp4?tag=16",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102722648593891328/img/YvsAAc2t_7lVvCou.jpg",
+      "duration_seconds": 46.5,
+      "views": 54596,
+      "views_checked_at": "2026-09-25T14:58:16.766823Z",
+      "views_source_url": "https://api.fxtwitter.com/masahirochaen/status/2102722719502704941",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Code",
+        "JavaScript",
+        "Canvas"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/masahirochaen/status/2102722719502704941&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/masahirochaen/status/2102722719502704941",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 15
+    },
+    {
+      "id": "2103116235009347650",
+      "category": "education",
+      "title": {
+        "en": "The Battle of Austerlitz",
+        "zh-CN": "奥斯特里茨战役历史短片"
+      },
+      "description": {
+        "en": "A five-minute coded historical film with a WebGL renderer, synthesized sound, offline narration, and a public source repository.",
+        "zh-CN": "五分钟代码制作的战役短片，使用 WebGL 渲染、合成音效和离线配音，作者公开了源代码。"
+      },
+      "creator": {
+        "name": "Winter",
+        "handle": "WinterArc2125"
+      },
+      "original_post_url": "https://x.com/WinterArc2125/status/2103116235009347650",
+      "demo_url": "https://x.com/WinterArc2125/status/2103116235009347650",
+      "video_url": "https://video.twimg.com/amplify_video/2103113452726140928/vid/avc1/1920x1080/7kwgLDfFWkBBQ35Z.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103113452726140928/img/cjQI93QJwNev_gQ1.jpg",
+      "duration_seconds": 301.333,
+      "views": 51538,
+      "views_checked_at": "2026-09-25T14:58:17.964115Z",
+      "views_source_url": "https://api.fxtwitter.com/WinterArc2125/status/2103116235009347650",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [
+        "Kokoro TTS (variant not specified)"
+      ],
+      "tools_reported": [
+        "WebGL2",
+        "GLSL",
+        "JavaScript",
+        "Python",
+        "Kokoro TTS",
+        "Playwright",
+        "FFmpeg"
+      ],
+      "prompt_or_brief_url": "https://x.com/WinterArc2125/status/2103116689944502720",
+      "source_code_url": "https://github.com/WinterArc21/Battle-of-Austerlitz-Film",
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/WinterArc2125/status/2103116235009347650&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/WinterArc2125/status/2103116235009347650",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 16
+    },
+    {
+      "id": "2102680453912449223",
+      "category": "education",
+      "title": {
+        "en": "Physics Competition Problem Walkthrough",
+        "zh-CN": "物理竞赛压轴题讲解"
+      },
+      "description": {
+        "en": "An animated walkthrough of a physics competition problem, posted as an Opus 5.5 teaching demonstration.",
+        "zh-CN": "以物理竞赛题为对象的动画讲解，作者将其作为 Opus 5.5 教学能力示例。"
+      },
+      "creator": {
+        "name": "WY",
+        "handle": "akokoi1"
+      },
+      "original_post_url": "https://x.com/akokoi1/status/2102680453912449223",
+      "demo_url": "https://x.com/akokoi1/status/2102680453912449223",
+      "video_url": "https://video.twimg.com/amplify_video/2102675543351275520/vid/avc1/1920x1080/kxzPSBWLE4WmzQJX.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102675543351275520/img/7dqJbXUxKyw1EJOI.jpg",
+      "duration_seconds": 189.266,
+      "views": 47034,
+      "views_checked_at": "2026-09-25T14:58:16.825041Z",
+      "views_source_url": "https://api.fxtwitter.com/akokoi1/status/2102680453912449223",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/akokoi1/status/2102680453912449223&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102680453912449223",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 17
+    },
+    {
+      "id": "2102827887732932956",
+      "category": "education",
+      "title": {
+        "en": "Talking-Head Video to Animated B-roll",
+        "zh-CN": "真人口播转线稿动画讲解"
+      },
+      "description": {
+        "en": "An 83-second talking-head clip becomes illustrated B-roll with a circular presenter inset while retaining its voice, subtitles, and timing.",
+        "zh-CN": "将 83 秒真人口播改成线稿动画主画面与圆形人像画中画，保留原声、字幕和时长。"
+      },
+      "creator": {
+        "name": "Axton",
+        "handle": "AxtonLiu"
+      },
+      "original_post_url": "https://x.com/AxtonLiu/status/2102827887732932956",
+      "demo_url": "https://x.com/AxtonLiu/status/2102827887732932956",
+      "video_url": "https://video.twimg.com/amplify_video/2102827850864934912/vid/avc1/1080x1920/ygNrPAgjD25Y4Br_.mp4?tag=16",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102827850864934912/img/gvpyuocSy0AV1hip.jpg",
+      "duration_seconds": 83.666,
+      "views": 30135,
+      "views_checked_at": "2026-09-25T14:58:16.831431Z",
+      "views_source_url": "https://api.fxtwitter.com/AxtonLiu/status/2102827887732932956",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Code",
+        "Python"
+      ],
+      "prompt_or_brief_url": "https://x.com/AxtonLiu/status/2102827887732932956",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/AxtonLiu/status/2102827887732932956&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/AxtonLiu/status/2102827887732932956",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 18
+    },
+    {
+      "id": "2102437977435893771",
+      "category": "stories",
+      "title": {
+        "en": "What Do You Love?",
+        "zh-CN": "你热爱什么？"
+      },
+      "description": {
+        "en": "A hand-drawn story about a girl who sends Claude a question instead of a task.",
+        "zh-CN": "女孩没有交代任务，而是写信询问 Claude 热爱什么的手绘故事。"
+      },
+      "creator": {
+        "name": "Kevin Ngo",
+        "handle": "kevin_t_ngo"
+      },
+      "original_post_url": "https://x.com/kevin_t_ngo/status/2102437977435893771",
+      "demo_url": "https://x.com/kevin_t_ngo/status/2102437977435893771/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/2160x2160/W4jj3wTem9xWvmrR.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg",
+      "duration_seconds": 28,
+      "views": 619332,
+      "views_checked_at": "2026-09-25T14:54:15.785365+00:00",
+      "views_source_url": "https://api.fxtwitter.com/kevin_t_ngo/status/2102437977435893771",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "JavaScript"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/kevin_t_ngo/status/2102437977435893771&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/kevin_t_ngo/status/2102437977435893771",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 19
+    },
+    {
+      "id": "2102476258948927543",
+      "category": "stories",
+      "title": {
+        "en": "Pixel Wizard",
+        "zh-CN": "像素巫师"
+      },
+      "description": {
+        "en": "An animated pixel-art wizard built with code; the author points to a prompt in the replies.",
+        "zh-CN": "用代码制作的像素巫师动画；作者提到回复中附有提示词。"
+      },
+      "creator": {
+        "name": "Majid Manzarpour",
+        "handle": "majidmanzarpour"
+      },
+      "original_post_url": "https://x.com/majidmanzarpour/status/2102476258948927543",
+      "demo_url": "https://x.com/majidmanzarpour/status/2102476258948927543/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102476231740399616/img/c0rCI7sJtWi1Gq5Q.jpg",
+      "duration_seconds": 11.225,
+      "views": 413234,
+      "views_checked_at": "2026-09-25T14:54:18.498231+00:00",
+      "views_source_url": "https://api.fxtwitter.com/majidmanzarpour/status/2102476258948927543",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Code; language unknown"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/majidmanzarpour/status/2102476258948927543&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/majidmanzarpour/status/2102476258948927543",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 20
+    },
+    {
+      "id": "2102512879258009818",
+      "category": "stories",
+      "title": {
+        "en": "Mars Rover Short Film",
+        "zh-CN": "火星探测器短片"
+      },
+      "description": {
+        "en": "A rover-styled short made with four agents; the author reports no external AI voice API.",
+        "zh-CN": "四个代理参与制作的探测器风格短片；作者称没有调用外部 AI 语音接口。"
+      },
+      "creator": {
+        "name": "AndrewOnXYZ",
+        "handle": "AndrewOnXYZ"
+      },
+      "original_post_url": "https://x.com/AndrewOnXYZ/status/2102512879258009818",
+      "demo_url": "https://x.com/AndrewOnXYZ/status/2102512879258009818/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102512551380619264/vid/avc1/1280x720/LscHdEggUW0fAmsL.mp4?tag=14",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102512551380619264/img/bRsZ7nsJGMppd8Sl.jpg",
+      "duration_seconds": 239.381,
+      "views": 362177,
+      "views_checked_at": "2026-09-25T14:54:16.735669+00:00",
+      "views_source_url": "https://api.fxtwitter.com/AndrewOnXYZ/status/2102512879258009818",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Opus 5.5 ultra",
+        "Four agents",
+        "unknown renderer"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/AndrewOnXYZ/status/2102512879258009818&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/AndrewOnXYZ/status/2102512879258009818",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 21
+    },
+    {
+      "id": "2102495989194236158",
+      "category": "stories",
+      "title": {
+        "en": "The Life of Opus",
+        "zh-CN": "Opus 的一生"
+      },
+      "description": {
+        "en": "A model autobiography drawn frame by frame with JavaScript brushstrokes.",
+        "zh-CN": "通过 JavaScript 笔触逐帧绘制的模型自传动画。"
+      },
+      "creator": {
+        "name": "✯",
+        "handle": "shfred0"
+      },
+      "original_post_url": "https://x.com/shfred0/status/2102495989194236158",
+      "demo_url": "https://x.com/shfred0/status/2102495989194236158/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102495951738822657/vid/avc1/1762x982/Cu3fA7dv2tNbHj64.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102495951738822657/img/MzxuuvkAQ6e1w6mR.jpg",
+      "duration_seconds": 30.171,
+      "views": 358832,
+      "views_checked_at": "2026-09-25T14:54:15.563808+00:00",
+      "views_source_url": "https://api.fxtwitter.com/shfred0/status/2102495989194236158",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "JavaScript"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/shfred0/status/2102495989194236158&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/shfred0/status/2102495989194236158",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 22
+    },
+    {
+      "id": "2102478640428773861",
+      "category": "stories",
+      "title": {
+        "en": "Imagining Hard Problems",
+        "zh-CN": "想象如何解决难题"
+      },
+      "description": {
+        "en": "A code-based animated self-portrait of Claude confronting a difficult problem.",
+        "zh-CN": "Claude 面对难题的代码动画自画像。"
+      },
+      "creator": {
+        "name": "Chetaslua",
+        "handle": "chetaslua"
+      },
+      "original_post_url": "https://x.com/chetaslua/status/2102478640428773861",
+      "demo_url": "https://x.com/chetaslua/status/2102478640428773861/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg",
+      "duration_seconds": 30,
+      "views": 145800,
+      "views_checked_at": "2026-09-25T14:54:16.858891+00:00",
+      "views_source_url": "https://api.fxtwitter.com/chetaslua/status/2102478640428773861",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Code; language unknown"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/chetaslua/status/2102478640428773861&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/chetaslua/status/2102478640428773861",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 23
+    },
+    {
+      "id": "2102531681450119426",
+      "category": "stories",
+      "title": {
+        "en": "Small Print",
+        "zh-CN": "字里行间"
+      },
+      "description": {
+        "en": "Claude collects the human moments hidden in requests and turns them into a constellation.",
+        "zh-CN": "Claude 收集请求中细小的人类情感，把这些片段变成星座。"
+      },
+      "creator": {
+        "name": "Vox",
+        "handle": "Voxyz_ai"
+      },
+      "original_post_url": "https://x.com/Voxyz_ai/status/2102531681450119426",
+      "demo_url": "https://x.com/Voxyz_ai/status/2102531681450119426/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102528357988515840/vid/avc1/2160x2160/mj-Acki4JGn_lnxK.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102528357988515840/img/BA2FYci0s3TM5XCU.jpg",
+      "duration_seconds": 29.013,
+      "views": 119151,
+      "views_checked_at": "2026-09-25T14:54:15.405754+00:00",
+      "views_source_url": "https://api.fxtwitter.com/Voxyz_ai/status/2102531681450119426",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "JavaScript",
+        "HTML",
+        "HyperFrames",
+        "Python-generated music"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Voxyz_ai/status/2102531681450119426&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Voxyz_ai/status/2102531681450119426",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 24
+    },
+    {
+      "id": "2102493303388475855",
+      "category": "stories",
+      "title": {
+        "en": "Oktoberfest",
+        "zh-CN": "啤酒节"
+      },
+      "description": {
+        "en": "A complete animation generated from one prompt in 14 minutes 48 seconds, according to its creator.",
+        "zh-CN": "作者称一次提示、耗时 14 分 48 秒完成的动画。"
+      },
+      "creator": {
+        "name": "Tak 🦞",
+        "handle": "cherry_mx_reds"
+      },
+      "original_post_url": "https://x.com/cherry_mx_reds/status/2102493303388475855",
+      "demo_url": "https://x.com/cherry_mx_reds/status/2102493303388475855/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102493087381487616/img/CoCNR1WdNiQpyoe2.jpg",
+      "duration_seconds": 30,
+      "views": 116363,
+      "views_checked_at": "2026-09-25T14:54:19.606912+00:00",
+      "views_source_url": "https://api.fxtwitter.com/cherry_mx_reds/status/2102493303388475855",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/cherry_mx_reds/status/2102493303388475855&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/cherry_mx_reds/status/2102493303388475855",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 25
+    },
+    {
+      "id": "2102498589259821559",
+      "category": "stories",
+      "title": {
+        "en": "A Raindrop Story",
+        "zh-CN": "一滴雨的故事"
+      },
+      "description": {
+        "en": "Claude demonstrates its visual abilities through a story centered on a raindrop.",
+        "zh-CN": "Claude 用一滴雨的故事展示视觉创作能力。"
+      },
+      "creator": {
+        "name": "Alix Ollivier",
+        "handle": "aollivier82"
+      },
+      "original_post_url": "https://x.com/aollivier82/status/2102498589259821559",
+      "demo_url": "https://x.com/aollivier82/status/2102498589259821559/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102498362331201537/vid/avc1/1080x1920/YJVbJ8i5lHe0lA1P.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102498362331201537/img/X6hkw_PSr_DdDiir.jpg",
+      "duration_seconds": 32,
+      "views": 81019,
+      "views_checked_at": "2026-09-25T14:54:18.055603+00:00",
+      "views_source_url": "https://api.fxtwitter.com/aollivier82/status/2102498589259821559",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/aollivier82/status/2102498589259821559&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/aollivier82/status/2102498589259821559",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 26
+    },
+    {
+      "id": "2102699703309898026",
+      "category": "stories",
+      "title": {
+        "en": "Little Tadpoles Look for Their Mother",
+        "zh-CN": "小蝌蚪找妈妈水墨动画"
+      },
+      "description": {
+        "en": "A nearly four-minute ink-wash story animation that the creator attributes entirely to code generated by Opus 5.5.",
+        "zh-CN": "作者用 Opus 5.5 纯代码制作的近四分钟水墨故事动画。"
+      },
+      "creator": {
+        "name": "WY",
+        "handle": "akokoi1"
+      },
+      "original_post_url": "https://x.com/akokoi1/status/2102699703309898026",
+      "demo_url": "https://x.com/akokoi1/status/2102699703309898026",
+      "video_url": "https://video.twimg.com/amplify_video/2102699399768109056/vid/avc1/1920x1080/WI225XeKPY969qPH.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102699399768109056/img/qqauc1vVuOvU1qEQ.jpg",
+      "duration_seconds": 235.333,
+      "views": 17495,
+      "views_checked_at": "2026-09-25T14:58:18.194925Z",
+      "views_source_url": "https://api.fxtwitter.com/akokoi1/status/2102699703309898026",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/akokoi1/status/2102699703309898026&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102699703309898026",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 27
+    },
+    {
+      "id": "2102436464323661880",
+      "category": "art",
+      "title": {
+        "en": "Orbiting Worlds",
+        "zh-CN": "轨道中的世界"
+      },
+      "description": {
+        "en": "A textured cosmic animation presented by its creator as an Opus 5.5 work.",
+        "zh-CN": "创作者标明由 Opus 5.5 制作的纹理感宇宙动画。"
+      },
+      "creator": {
+        "name": "DreW",
+        "handle": "devteamdrew"
+      },
+      "original_post_url": "https://x.com/devteamdrew/status/2102436464323661880",
+      "demo_url": "https://x.com/devteamdrew/status/2102436464323661880/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102435379810885632/img/fQBBEjTIV0bC9NS4.jpg",
+      "duration_seconds": 31.916,
+      "views": 1675896,
+      "views_checked_at": "2026-09-25T14:54:15.614674+00:00",
+      "views_source_url": "https://api.fxtwitter.com/devteamdrew/status/2102436464323661880",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/devteamdrew/status/2102436464323661880&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/devteamdrew/status/2102436464323661880",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 28
+    },
+    {
+      "id": "2102463453176979794",
+      "category": "art",
+      "title": {
+        "en": "Antikythera Underwater Exploration",
+        "zh-CN": "安提基特拉机械海底探索"
+      },
+      "description": {
+        "en": "A playable underwater game inspired by the Antikythera mechanism; the creator says its visuals and sound are generated procedurally in one HTML file.",
+        "zh-CN": "以安提基特拉机械发现为灵感的海底探索游戏，作者称画面与声音均由单个 HTML 文件实时生成。"
+      },
+      "creator": {
+        "name": "edwin",
+        "handle": "edwinarbus"
+      },
+      "original_post_url": "https://x.com/edwinarbus/status/2102463453176979794",
+      "demo_url": "https://x.com/edwinarbus/status/2102463453176979794",
+      "video_url": "https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg",
+      "duration_seconds": 59.966,
+      "views": 375744,
+      "views_checked_at": "2026-09-25T14:58:19.828026Z",
+      "views_source_url": "https://api.fxtwitter.com/edwinarbus/status/2102463453176979794",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "HTML",
+        "procedural graphics and audio"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/edwinarbus/status/2102463453176979794&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/edwinarbus/status/2102463453176979794",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 29
+    },
+    {
+      "id": "2102445641205248145",
+      "category": "art",
+      "title": {
+        "en": "Catapult Sketch to Interactive Simulation",
+        "zh-CN": "投石机草图转交互模拟"
+      },
+      "description": {
+        "en": "A video showing a paper catapult sketch turned into a 3D simulation with adjustable weight, flight-path display and moving blocks.",
+        "zh-CN": "演示把纸上的投石机草图转为三维模拟，可调节配重、显示飞行轨迹，并观察积木被击倒的动画。"
+      },
+      "creator": {
+        "name": "Ben Poole",
+        "handle": "poolio"
+      },
+      "original_post_url": "https://x.com/poolio/status/2102445641205248145",
+      "demo_url": "https://x.com/poolio/status/2102445641205248145",
+      "video_url": "https://video.twimg.com/amplify_video/2102445309855141889/vid/avc1/1920x1080/Y-M_cyVq7uOxGr0H.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102445309855141889/img/0IAe54R7yMAioAoL.jpg",
+      "duration_seconds": 80.216,
+      "views": 248639,
+      "views_checked_at": "2026-09-25T14:58:19.420337Z",
+      "views_source_url": "https://api.fxtwitter.com/poolio/status/2102445641205248145",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/poolio/status/2102445641205248145&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/poolio/status/2102445641205248145",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 30
+    },
+    {
+      "id": "2102515055116063144",
+      "category": "art",
+      "title": {
+        "en": "Rainbow Road Pixel Animation",
+        "zh-CN": "彩虹路像素动画"
+      },
+      "description": {
+        "en": "A pixel animation produced in under five minutes, according to the creator.",
+        "zh-CN": "作者称不到五分钟就完成的像素动画。"
+      },
+      "creator": {
+        "name": "Rikuo",
+        "handle": "riku720720"
+      },
+      "original_post_url": "https://x.com/riku720720/status/2102515055116063144",
+      "demo_url": "https://x.com/riku720720/status/2102515055116063144/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg",
+      "duration_seconds": 18.8,
+      "views": 238365,
+      "views_checked_at": "2026-09-25T14:54:18.248733+00:00",
+      "views_source_url": "https://api.fxtwitter.com/riku720720/status/2102515055116063144",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/riku720720/status/2102515055116063144&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/riku720720/status/2102515055116063144",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 31
+    },
+    {
+      "id": "2102457111787745405",
+      "category": "art",
+      "title": {
+        "en": "Painted Coast",
+        "zh-CN": "会动的海岸画"
+      },
+      "description": {
+        "en": "A painterly landscape animation whose frames were drawn in JavaScript.",
+        "zh-CN": "每一帧都用 JavaScript 绘制的绘画风景动画。"
+      },
+      "creator": {
+        "name": "Hunter Su",
+        "handle": "strawhatsu4"
+      },
+      "original_post_url": "https://x.com/strawhatsu4/status/2102457111787745405",
+      "demo_url": "https://x.com/strawhatsu4/status/2102457111787745405/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102457077390299136/img/HzOxACxWaSHvlmBw.jpg",
+      "duration_seconds": 13.541,
+      "views": 140203,
+      "views_checked_at": "2026-09-25T14:54:17.167779+00:00",
+      "views_source_url": "https://api.fxtwitter.com/strawhatsu4/status/2102457111787745405",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "JavaScript"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/strawhatsu4/status/2102457111787745405&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/strawhatsu4/status/2102457111787745405",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 32
+    },
+    {
+      "id": "2102573127192727704",
+      "category": "art",
+      "title": {
+        "en": "New Zealand in Acrylic",
+        "zh-CN": "丙烯笔触下的新西兰"
+      },
+      "description": {
+        "en": "Travel photographs reinterpreted as acrylic-style drawings made with JavaScript.",
+        "zh-CN": "用 JavaScript 将旅行照片重新绘成丙烯画风。"
+      },
+      "creator": {
+        "name": "Ann Nguyen",
+        "handle": "ann_nnng"
+      },
+      "original_post_url": "https://x.com/ann_nnng/status/2102573127192727704",
+      "demo_url": "https://x.com/ann_nnng/status/2102573127192727704/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102573043285737472/vid/avc1/2378x1514/dNeotSwb3xZKAAZg.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102573043285737472/img/S9Ws9J_V1ZLP5qLl.jpg",
+      "duration_seconds": 21.666,
+      "views": 116285,
+      "views_checked_at": "2026-09-25T14:54:16.848028+00:00",
+      "views_source_url": "https://api.fxtwitter.com/ann_nnng/status/2102573127192727704",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "JavaScript"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/ann_nnng/status/2102573127192727704&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/ann_nnng/status/2102573127192727704",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 33
+    },
+    {
+      "id": "2102679018206052828",
+      "category": "art",
+      "title": {
+        "en": "Blue-Light Film Test",
+        "zh-CN": "蓝色光影短片测试"
+      },
+      "description": {
+        "en": "A cinematic test clip built from mathematical code rather than a video-generation model.",
+        "zh-CN": "以数学和代码构建的电影感测试片段，作者称没有使用视频生成模型。"
+      },
+      "creator": {
+        "name": "Riley Coyote",
+        "handle": "RileyRalmuto"
+      },
+      "original_post_url": "https://x.com/RileyRalmuto/status/2102679018206052828",
+      "demo_url": "https://x.com/RileyRalmuto/status/2102679018206052828/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102678548880265216/vid/avc1/1920x804/gRlOqBsygyWwuCXb.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102678548880265216/img/csbl4iTaf5EMftJ8.jpg",
+      "duration_seconds": 16,
+      "views": 60969,
+      "views_checked_at": "2026-09-25T14:54:18.594425+00:00",
+      "views_source_url": "https://api.fxtwitter.com/RileyRalmuto/status/2102679018206052828",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Code; language unknown"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://api.fxtwitter.com/RileyRalmuto/status/2102679018206052828",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/RileyRalmuto/status/2102679018206052828",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 34
+    },
+    {
+      "id": "2102449278283313303",
+      "category": "art",
+      "title": {
+        "en": "Exoskeleton Redesign in Blender",
+        "zh-CN": "Blender 外骨骼重设计"
+      },
+      "description": {
+        "en": "A 3D exoskeleton redesign demonstration, including its joints, attributed to an Opus 5.5 workflow in Blender.",
+        "zh-CN": "用 Opus 5.5 在 Blender 中重新设计外骨骼及关节的三维演示。"
+      },
+      "creator": {
+        "name": "Higgsfield AI 🧩",
+        "handle": "higgsfield_ai"
+      },
+      "original_post_url": "https://x.com/higgsfield_ai/status/2102449278283313303",
+      "demo_url": "https://x.com/higgsfield_ai/status/2102449278283313303",
+      "video_url": "https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102449110007869440/img/WsA2Lbftr1A-YJGt.jpg",
+      "duration_seconds": 28.875,
+      "views": 51150,
+      "views_checked_at": "2026-09-25T14:58:19.528379Z",
+      "views_source_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102449278283313303",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Blender",
+        "Higgsfield"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/higgsfield_ai/status/2102449278283313303&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102449278283313303",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 35
+    },
+    {
+      "id": "2102453658889953717",
+      "category": "art",
+      "title": {
+        "en": "Animated Blender Windmill",
+        "zh-CN": "Blender 风车建模与动画"
+      },
+      "description": {
+        "en": "A windmill demonstration combining modeling, rigging, texturing, and animation in an Opus 5.5 and Higgsfield workflow.",
+        "zh-CN": "Opus 5.5 与 Higgsfield 完成建模、绑定、材质和动画的风车演示。"
+      },
+      "creator": {
+        "name": "Higgsfield AI 🧩",
+        "handle": "higgsfield_ai"
+      },
+      "original_post_url": "https://x.com/higgsfield_ai/status/2102453658889953717",
+      "demo_url": "https://x.com/higgsfield_ai/status/2102453658889953717",
+      "video_url": "https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102453598559055873/img/y7APzvbA0q1kGofk.jpg",
+      "duration_seconds": 21.021,
+      "views": 48289,
+      "views_checked_at": "2026-09-25T14:58:19.256465Z",
+      "views_source_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102453658889953717",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Blender",
+        "Higgsfield"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/higgsfield_ai/status/2102453658889953717&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102453658889953717",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 36
+    },
+    {
+      "id": "2102514581684052169",
+      "category": "production",
+      "title": {
+        "en": "I'm Upping My P(doom)",
+        "zh-CN": "我的 P(doom) 正在上升"
+      },
+      "description": {
+        "en": "A hand-painted music video with an existing soundtrack and model-written animation code.",
+        "zh-CN": "使用已有歌曲与模型编写动画代码制作的手绘音乐视频。"
+      },
+      "creator": {
+        "name": "NotinReality",
+        "handle": "other__reality"
+      },
+      "original_post_url": "https://x.com/other__reality/status/2102514581684052169",
+      "demo_url": "https://x.com/other__reality/status/2102514581684052169/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102514085137154048/img/7XGIyEK7yf8pa4z3.jpg",
+      "duration_seconds": 156.583,
+      "views": 2159361,
+      "views_checked_at": "2026-09-25T14:54:19.149381+00:00",
+      "views_source_url": "https://api.fxtwitter.com/other__reality/status/2102514581684052169",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "p5.js",
+        "p5.brush",
+        "Node.js",
+        "Headless Chrome",
+        "ffmpeg"
+      ],
+      "prompt_or_brief_url": "https://github.com/JohnHeibel/PDoomVideo#how-it-was-made",
+      "source_code_url": "https://github.com/JohnHeibel/PDoomVideo",
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/other__reality/status/2102514581684052169&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/other__reality/status/2102514581684052169",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 37
+    },
+    {
+      "id": "2102801274173587569",
+      "category": "production",
+      "title": {
+        "en": "Claude Pop: Hybrid Music Video",
+        "zh-CN": "Claude Pop：混合流程音乐视频"
+      },
+      "description": {
+        "en": "A remake whose public brief combines JavaScript animation with generated video and sound-design tools.",
+        "zh-CN": "公开制作说明结合 JavaScript 动画、视频生成和音效工具的重制音乐视频。"
+      },
+      "creator": {
+        "name": "donald",
+        "handle": "donaldjewkes"
+      },
+      "original_post_url": "https://x.com/donaldjewkes/status/2102801274173587569",
+      "demo_url": "https://x.com/donaldjewkes/status/2102801274173587569/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102799458031534086/vid/avc1/1920x1080/HM5EiroYW1MYwYj9.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg",
+      "duration_seconds": 141.524,
+      "views": 1598766,
+      "views_checked_at": "2026-09-25T14:54:20.003330+00:00",
+      "views_source_url": "https://api.fxtwitter.com/donaldjewkes/status/2102801274173587569",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [
+        "Seedance 2.5 (specified in the shared brief)"
+      ],
+      "tools_reported": [
+        "Claude Opus 5.5",
+        "JavaScript (prompt)",
+        "Seedance 2.5 (prompt)",
+        "ElevenLabs (prompt)",
+        "Image-generation API (prompt)"
+      ],
+      "prompt_or_brief_url": "https://x.com/donaldjewkes/status/2102801469976248500",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/donaldjewkes/status/2102801274173587569&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/donaldjewkes/status/2102801274173587569",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 38
+    },
+    {
+      "id": "2103304514329854102",
+      "category": "production",
+      "title": {
+        "en": "A five-minute superintelligence documentary",
+        "zh-CN": "五分钟超级智能纪录短片"
+      },
+      "description": {
+        "en": "The creator connected a Claude agent to Runway MCP and requested an accessible, polished documentary about superintelligence.",
+        "zh-CN": "作者将 Claude 代理接入 Runway MCP，要求制作面向大众的超级智能纪录短片。"
+      },
+      "creator": {
+        "name": "Gavin Purcell",
+        "handle": "gavinpurcell"
+      },
+      "original_post_url": "https://x.com/gavinpurcell/status/2103304514329854102",
+      "demo_url": "https://x.com/gavinpurcell/status/2103304514329854102/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103304202617520128/vid/avc1/854x480/XAtyYiDr1QYeUZPu.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103304202617520128/img/bpMVxBiJHhgYy27l.jpg",
+      "duration_seconds": 315.373,
+      "views": 130397,
+      "views_checked_at": "2026-09-25T14:54:13Z",
+      "views_source_url": "https://api.fxtwitter.com/gavinpurcell/status/2103304514329854102",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Runway MCP"
+      ],
+      "prompt_or_brief_url": "https://x.com/gavinpurcell/status/2103304514329854102",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/gavinpurcell/status/2103304514329854102&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/gavinpurcell/status/2103304514329854102",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 39
+    },
+    {
+      "id": "2102984873351037161",
+      "category": "production",
+      "title": {
+        "en": "From 13 raw takes to a launch video",
+        "zh-CN": "从 13 条原始素材剪成发布视频"
+      },
+      "description": {
+        "en": "The creator used video-use to select a clean take, edit and caption it, then build a launch video around it.",
+        "zh-CN": "作者使用 video-use 从多个镜头中选片、剪辑、调色和配字幕，并进一步组成发布视频。"
+      },
+      "creator": {
+        "name": "Gregor Zunic",
+        "handle": "gregpr07"
+      },
+      "original_post_url": "https://x.com/gregpr07/status/2102984873351037161",
+      "demo_url": "https://x.com/gregpr07/status/2102984873351037161/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102984006224728064/vid/avc1/1920x1080/FK0zBJctbjOBHkIj.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg",
+      "duration_seconds": 17.966,
+      "views": 44627,
+      "views_checked_at": "2026-09-25T14:54:12Z",
+      "views_source_url": "https://api.fxtwitter.com/gregpr07/status/2102984873351037161",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "video-use"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/gregpr07/status/2102984873351037161&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/gregpr07/status/2102984873351037161",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 40
+    },
+    {
+      "id": "2102471841046786153",
+      "category": "comparisons",
+      "title": {
+        "en": "Procedural Blender Shot and Build Timelapse",
+        "zh-CN": "Blender 程序化镜头与制作过程"
+      },
+      "description": {
+        "en": "A one-prompt comparison that asks Opus 5.5 and GPT-6 Astra to render a ten-second procedural Blender shot and record the build process.",
+        "zh-CN": "以同一提示词要求 Opus 5.5 与 GPT-6 Astra 在 Blender 中生成十秒程序化镜头并记录制作过程的对比。"
+      },
+      "creator": {
+        "name": "Stefan 3D AI",
+        "handle": "Stefan_3D_AI"
+      },
+      "original_post_url": "https://x.com/Stefan_3D_AI/status/2102471841046786153",
+      "demo_url": "https://x.com/Stefan_3D_AI/status/2102471841046786153",
+      "video_url": "https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102468034124464128/img/sgfsA79kpK8w2mCE.jpg",
+      "duration_seconds": 46.3,
+      "views": 461629,
+      "views_checked_at": "2026-09-25T14:58:19.439226Z",
+      "views_source_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102471841046786153",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "side_by_side_comparison",
+      "other_models": [
+        "GPT-6 Astra"
+      ],
+      "tools_reported": [
+        "Blender"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Stefan_3D_AI/status/2102471841046786153&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102471841046786153",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 41
+    },
+    {
+      "id": "2102450239923720440",
+      "category": "comparisons",
+      "title": {
+        "en": "Prehistoric Island Comparison",
+        "zh-CN": "史前岛屿交互场景对比"
+      },
+      "description": {
+        "en": "A short comparison of Opus 5 and Opus 5.5 interactive island scenes; the author identifies the Opus 5.5 result on the right.",
+        "zh-CN": "Opus 5 与 Opus 5.5 的岛屿交互场景对比，作者明确右侧为 Opus 5.5 结果。"
+      },
+      "creator": {
+        "name": "Vib3Coded",
+        "handle": "vib3coded"
+      },
+      "original_post_url": "https://x.com/vib3coded/status/2102450239923720440",
+      "demo_url": "https://x.com/vib3coded/status/2102450239923720440",
+      "video_url": "https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102450190217101312/img/0Vf9bvr1Gcw_1MJO.jpg",
+      "duration_seconds": 19.766,
+      "views": 99332,
+      "views_checked_at": "2026-09-25T14:58:18.137954Z",
+      "views_source_url": "https://api.fxtwitter.com/vib3coded/status/2102450239923720440",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "side_by_side_comparison",
+      "other_models": [
+        "Claude Opus 5"
+      ],
+      "tools_reported": [
+        "Three.js (specified in prompt)",
+        "WebGL",
+        "HTML"
+      ],
+      "prompt_or_brief_url": "https://x.com/vib3coded/status/2102450842070569099",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/vib3coded/status/2102450239923720440&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/vib3coded/status/2102450239923720440",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 42
+    },
+    {
+      "id": "2102641562824135022",
+      "category": "comparisons",
+      "title": {
+        "en": "Creature Rigging and Animation",
+        "zh-CN": "生物模型骨骼绑定与动作"
+      },
+      "description": {
+        "en": "A 3D creature rigging and animation test highlighting jumping and biting motions, discussed alongside GPT-6 Astra.",
+        "zh-CN": "展示生物模型骨骼绑定以及跳跃、咬合动作的测试，作者同时比较了 GPT-6 Astra。"
+      },
+      "creator": {
+        "name": "Stefan 3D AI",
+        "handle": "Stefan_3D_AI"
+      },
+      "original_post_url": "https://x.com/Stefan_3D_AI/status/2102641562824135022",
+      "demo_url": "https://x.com/Stefan_3D_AI/status/2102641562824135022",
+      "video_url": "https://video.twimg.com/amplify_video/2102641511280377856/vid/avc1/1080x1080/Unywe4xeukLn9J5j.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102641511280377856/img/UdzVSuSxkOr_-2wK.jpg",
+      "duration_seconds": 25.216,
+      "views": 40041,
+      "views_checked_at": "2026-09-25T14:58:19.415377Z",
+      "views_source_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102641562824135022",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "comparison_discussed_visual_allocation_unverified",
+      "other_models": [
+        "GPT-6 Astra"
+      ],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Stefan_3D_AI/status/2102641562824135022&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102641562824135022",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 43
+    },
+    {
+      "id": "2102623690152419633",
+      "category": "comparisons",
+      "title": {
+        "en": "Procedural Cartoon-Scene Reconstruction",
+        "zh-CN": "程序化动画场景重建"
+      },
+      "description": {
+        "en": "A comparison of code-built cartoon scenes and construction timelapses, with the creator preferring GPT-6 in this particular test.",
+        "zh-CN": "比较代码生成的动画场景与制作过程，作者在此项测试中更偏好 GPT-6 的结果。"
+      },
+      "creator": {
+        "name": "Stefan 3D AI",
+        "handle": "Stefan_3D_AI"
+      },
+      "original_post_url": "https://x.com/Stefan_3D_AI/status/2102623690152419633",
+      "demo_url": "https://x.com/Stefan_3D_AI/status/2102623690152419633",
+      "video_url": "https://video.twimg.com/amplify_video/2102623640491786240/vid/avc1/1080x1080/zSaFfY2dJZ4kLXGf.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102623640491786240/img/Dk1k56jCZHFBOGcp.jpg",
+      "duration_seconds": 29.605,
+      "views": 21846,
+      "views_checked_at": "2026-09-25T14:58:19.526246Z",
+      "views_source_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102623690152419633",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "side_by_side_comparison",
+      "other_models": [
+        "GPT-6 (variant unspecified in post)"
+      ],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/Stefan_3D_AI/status/2102623690152419633&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102623690152419633",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 44
+    },
+    {
+      "id": "2102913101926731879",
+      "category": "comparisons",
+      "title": {
+        "en": "Lip-balm ad: Opus and Astra comparison",
+        "zh-CN": "润唇膏广告：Opus 与 Astra 对比"
+      },
+      "description": {
+        "en": "Higgsfield compares two music-timed product ads built from the same brand assets in After Effects.",
+        "zh-CN": "Higgsfield 展示两种模型基于同一品牌素材、在 After Effects 中按音乐节奏制作的产品广告。"
+      },
+      "creator": {
+        "name": "Higgsfield AI 🧩",
+        "handle": "higgsfield_ai"
+      },
+      "original_post_url": "https://x.com/higgsfield_ai/status/2102913101926731879",
+      "demo_url": "https://x.com/higgsfield_ai/status/2102913101926731879/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102912880102559744/vid/avc1/1220x1080/O2CJrxI9ZVynJOjP.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102912880102559744/img/WT0cvOXSUc7cXqBl.jpg",
+      "duration_seconds": 20.074,
+      "views": 14639,
+      "views_checked_at": "2026-09-25T14:54:14Z",
+      "views_source_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102913101926731879",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "side_by_side_comparison",
+      "other_models": [
+        "GPT-6 Astra"
+      ],
+      "tools_reported": [
+        "Higgsfield",
+        "After Effects"
+      ],
+      "prompt_or_brief_url": "https://x.com/higgsfield_ai/status/2102913101926731879",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/higgsfield_ai/status/2102913101926731879&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102913101926731879",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 45
+    },
+    {
+      "id": "2102536138884092185",
+      "category": "comparisons",
+      "title": {
+        "en": "Explorable 3D Eye Anatomy",
+        "zh-CN": "可拆解的三维眼球解剖"
+      },
+      "description": {
+        "en": "An interactive eye anatomy demonstration comparing Opus 5.5 and GPT-6 Sol, with a 3D object users can take apart and inspect.",
+        "zh-CN": "Opus 5.5 与 GPT-6 Sol 制作的眼球解剖交互演示，可拆分并观察三维结构。"
+      },
+      "creator": {
+        "name": "Higgsfield AI 🧩",
+        "handle": "higgsfield_ai"
+      },
+      "original_post_url": "https://x.com/higgsfield_ai/status/2102536138884092185",
+      "demo_url": "https://x.com/higgsfield_ai/status/2102536138884092185",
+      "video_url": "https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102535899762565120/img/vtPjaRNTPisZ5Hq8.jpg",
+      "duration_seconds": 20,
+      "views": 14084,
+      "views_checked_at": "2026-09-25T14:58:18.049725Z",
+      "views_source_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102536138884092185",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "side_by_side_comparison",
+      "other_models": [
+        "GPT-6 Sol"
+      ],
+      "tools_reported": [
+        "Higgsfield",
+        "unknown frontend stack"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/higgsfield_ai/status/2102536138884092185&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102536138884092185",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": false,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 46
+    }
+  ]
+}
