@@ -125,6 +125,14 @@ https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190
 
 **提示词摘要:** 使用原帖完整模板，让一个 HTML 场景中的 UI 按节拍连续变形，再用 Playwright 与 FFmpeg 渲染。
 
+### 动态设计与声音工程演示
+
+https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655
+
+[原帖](https://x.com/kloss_xyz/status/2103557735086428547)
+
+**提示词摘要:** 让 Claude Opus 5.5 制作一支 90 秒动态设计与声音工程演示，并原创钢琴配乐。
+
 <a id="education"></a>
 
 ## 科普教学与知识讲解
@@ -160,6 +168,14 @@ https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d
 [原帖](https://x.com/akokoi1/status/2102583898865873225)
 
 [Prompt](https://x.com/akokoi1/status/2102584165220962502) — 要求用轻松有趣的线稿动画快速回顾中华五千年历史，并加入合适的音乐。
+
+### 印度尼西亚 81 年历史
+
+https://github.com/user-attachments/assets/d12b7adb-242f-4347-bd5e-ac0185e7af18
+
+[原帖](https://x.com/sonnylazuardi/status/2103511590884815282)
+
+[提示词](https://x.com/sonnylazuardi/status/2103660301132685418) — 制作一支讲述印度尼西亚从首任总统至今历史的精彩动态图形短片，并鼓励模型带来惊喜。
 
 ### 大气环流知识讲解
 
@@ -234,6 +250,16 @@ https://github.com/user-attachments/assets/ea6388a4-f341-4d32-8807-8a2e7edafce0
 https://github.com/user-attachments/assets/4eee2c03-c4a7-4f51-b946-644e89045714
 
 [原帖](https://x.com/AndrewOnXYZ/status/2102512879258009818)
+
+### 从岩石到人工智能
+
+https://github.com/user-attachments/assets/74c28532-a327-4c8a-a9ef-af099c265433
+
+[原帖](https://x.com/devteamdrew/status/2103523994440012086)
+
+[实现方式](https://x.com/devteamdrew/status/2103582586090270975) — 以作者此前视频的素材作为风格参考，先完成故事板再开始制作。
+
+[实现方式](https://x.com/devteamdrew/status/2103763018903605624) — 在 Claude Code CLI 中制作；作者表示没有使用其他图像模型。
 
 ### Opus 的一生
 
@@ -378,6 +404,16 @@ https://github.com/user-attachments/assets/0d69cbad-283b-4645-911e-24f1e4d928eb
 [原帖](https://x.com/gregpr07/status/2102984873351037161)
 
 [实现方式](https://github.com/browser-use/video-use#how-it-works) — 用 video-use 对比不同口播素材，挑选合适片段，再完成剪辑、调色、字幕和发布视频组装。
+
+### 用代码呈现 Anthropic 的崛起
+
+https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1
+
+[原帖](https://x.com/VincentWei93/status/2103381720410333314)
+
+[提示词摘要](https://x.com/VincentWei93/status/2103494376118985207) — 围绕 Anthropic 的理念与崛起制作动画，包含音乐和音效，且不使用已有 Skill。
+
+[实现方式](https://x.com/VincentWei93/status/2103546671326199968) — 用 WebGL 与 Canvas 生成画面；作者表示音乐和音效也由代码合成。
 
 <a id="comparisons"></a>
 

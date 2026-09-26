@@ -707,6 +707,74 @@
       ]
     },
     {
+      "id": "2103557735086428547",
+      "category": "motion",
+      "title": {
+        "en": "Motion-design and sound-engineering demo",
+        "zh-CN": "动态设计与声音工程演示"
+      },
+      "description": {
+        "en": "A 90-second motion-design and sound-engineering reel with an original piano score composed by Opus 5.5, according to the creator.",
+        "zh-CN": "一支 90 秒动态设计与声音工程短片；作者表示 Opus 5.5 还为其原创了钢琴配乐。"
+      },
+      "creator": {
+        "name": "klöss",
+        "handle": "kloss_xyz"
+      },
+      "original_post_url": "https://x.com/kloss_xyz/status/2103557735086428547",
+      "demo_url": "https://x.com/kloss_xyz/status/2103557735086428547/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103557605553840129/vid/avc1/1920x1080/9-1K2VZfyS_chGqm.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103557605553840129/img/uicU8-1TW2yOf3SA.jpg",
+      "duration_seconds": 90,
+      "views": 29263,
+      "views_checked_at": "2026-09-26T14:33:30Z",
+      "views_source_url": "https://api.fxtwitter.com/kloss_xyz/status/2103557735086428547",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/kloss_xyz/status/2103557735086428547",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/kloss_xyz/status/2103557735086428547&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/kloss_xyz/status/2103557735086428547",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 48,
+      "github_video_url": "https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103557605553840129/vid/avc1/1280x720/H-x7C1Uya4kFyxmm.mp4?tag=29",
+        "filesize_bytes": 7242116,
+        "source_filesize_bytes": 14719552,
+        "duration_seconds": 90.047007,
+        "source_duration_seconds": 90.046984,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "8278d168c65b4a7efa0fd7052c04209890d9552ee6d038b827317f78bf88aa7f"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/kloss_xyz/status/2103557735086428547",
+          "label_en": "Prompt brief",
+          "label_zh": "提示词摘要",
+          "description_en": "Ask Claude Opus 5.5 for a 90-second motion-design and sound-engineering demo with an original piano score.",
+          "description_zh": "让 Claude Opus 5.5 制作一支 90 秒动态设计与声音工程演示，并原创钢琴配乐。",
+          "evidence_url": "https://api.fxtwitter.com/kloss_xyz/status/2103557735086428547"
+        }
+      ]
+    },
+    {
       "id": "2102591147927654847",
       "category": "education",
       "title": {
@@ -1427,6 +1495,84 @@
       ]
     },
     {
+      "id": "2103511590884815282",
+      "category": "education",
+      "title": {
+        "en": "81 Years of Indonesian History",
+        "zh-CN": "印度尼西亚 81 年历史"
+      },
+      "description": {
+        "en": "A motion-graphics history of Indonesia spanning eight presidents and 81 years, rendered without a video model or stock footage.",
+        "zh-CN": "一支跨越八位总统与 81 年历史的印度尼西亚动态图形短片，作者表示未使用视频模型或素材库镜头。"
+      },
+      "creator": {
+        "name": "Sonny",
+        "handle": "sonnylazuardi"
+      },
+      "original_post_url": "https://x.com/sonnylazuardi/status/2103511590884815282",
+      "demo_url": "https://x.com/sonnylazuardi/status/2103511590884815282/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103511425243357184/vid/avc1/1920x1080/d0RsBukRr-ESnQI-.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103511425243357184/img/DVgKBfs8dQno3xpo.jpg",
+      "duration_seconds": 52.8,
+      "views": 10170,
+      "views_checked_at": "2026-09-26T14:33:30Z",
+      "views_source_url": "https://api.fxtwitter.com/sonnylazuardi/status/2103511590884815282",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/sonnylazuardi/status/2103660301132685418",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/sonnylazuardi/status/2103511590884815282&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/sonnylazuardi/status/2103511590884815282",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false,
+        "author_replies_checked_in_system_browser": true
+      },
+      "number": 49,
+      "github_video_url": "https://github.com/user-attachments/assets/d12b7adb-242f-4347-bd5e-ac0185e7af18",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103511425243357184/vid/avc1/1280x720/jng3yI_12GNP58yr.mp4?tag=29",
+        "filesize_bytes": 4988221,
+        "source_filesize_bytes": 4988221,
+        "duration_seconds": 52.842667,
+        "source_duration_seconds": 52.842667,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "ef905de2d61a2498ba708365d8e1fb0d0772d58e4b648e8e089e95d862f803e6"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/sonnylazuardi/status/2103660301132685418",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Ask for an impressive motion-graphics reel about Indonesia's history from its first president to the present, and invite creative surprise.",
+          "description_zh": "制作一支讲述印度尼西亚从首任总统至今历史的精彩动态图形短片，并鼓励模型带来惊喜。",
+          "evidence_url": "https://x.com/sonnylazuardi/status/2103660301132685418"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://x.com/sonnylazuardi/status/2103511590884815282",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Storyboard eight presidents, build a 42,000-point map, type the 1945 proclamation on a virtual typewriter, compose a slendro gamelan score and render 1,584 frames with motion blur.",
+          "description_zh": "为八位总统制作故事板，以 42,000 个点构建地图，在虚拟打字机上呈现 1945 年独立宣言，谱写斯连德罗音阶甘美兰配乐，并用运动模糊渲染 1,584 帧。",
+          "evidence_url": "https://api.fxtwitter.com/sonnylazuardi/status/2103511590884815282"
+        }
+      ]
+    },
+    {
       "id": "2102437977435893771",
       "category": "stories",
       "title": {
@@ -2003,6 +2149,86 @@
         "sha256": "cb646a8050d61903d896cb008871430afe7bf8008f1db5fd3cdc55ceea5e33e6"
       },
       "resources": []
+    },
+    {
+      "id": "2103523994440012086",
+      "category": "stories",
+      "title": {
+        "en": "From Rocks to AI",
+        "zh-CN": "从岩石到人工智能"
+      },
+      "description": {
+        "en": "A three-minute short film tracing a path from rocks to artificial intelligence, made in Claude Code CLI with the creator's earlier assets as style references.",
+        "zh-CN": "一支从岩石讲到人工智能的三分钟短片，以作者此前作品素材作为风格参考，在 Claude Code CLI 中制作。"
+      },
+      "creator": {
+        "name": "DreW",
+        "handle": "devteamdrew"
+      },
+      "original_post_url": "https://x.com/devteamdrew/status/2103523994440012086",
+      "demo_url": "https://x.com/devteamdrew/status/2103523994440012086/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103523229616812032/vid/avc1/1920x1080/rjZ1WBpk1BB-0rnJ.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103523229616812032/img/Cv2Fau1sDkV7l-yY.jpg",
+      "duration_seconds": 180,
+      "views": 31568,
+      "views_checked_at": "2026-09-26T14:33:30Z",
+      "views_source_url": "https://api.fxtwitter.com/devteamdrew/status/2103523994440012086",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Code CLI"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/devteamdrew/status/2103523994440012086&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/devteamdrew/status/2103523994440012086",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false,
+        "author_replies_checked_in_system_browser": true
+      },
+      "number": 50,
+      "github_video_url": "https://github.com/user-attachments/assets/74c28532-a327-4c8a-a9ef-af099c265433",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103523229616812032/vid/avc1/1280x720/hJm3tpWoQwORyi9q.mp4?tag=29",
+        "filesize_bytes": 8045095,
+        "source_filesize_bytes": 23114883,
+        "duration_seconds": 180.053,
+        "source_duration_seconds": 180.053333,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "4cae645e0b45510b0bec6f0aedd11c650f83207282422d2013fce7fa09668b68"
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/devteamdrew/status/2103582586090270975",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Use previous video assets as style references and build a storyboard before starting.",
+          "description_zh": "以作者此前视频的素材作为风格参考，先完成故事板再开始制作。",
+          "evidence_url": "https://x.com/devteamdrew/status/2103582586090270975"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://x.com/devteamdrew/status/2103763018903605624",
+          "label_en": "Tooling",
+          "label_zh": "制作工具",
+          "description_en": "Produce the film in Claude Code CLI; the creator says no separate image model was used.",
+          "description_zh": "在 Claude Code CLI 中制作；作者表示没有使用其他图像模型。",
+          "evidence_url": "https://x.com/devteamdrew/status/2103763018903605624"
+        }
+      ]
     },
     {
       "id": "2102436464323661880",
@@ -2864,6 +3090,87 @@
           "description_en": "Use video-use to compare takes, select a clean delivery, edit, grade, caption, and assemble the launch video.",
           "description_zh": "用 video-use 对比不同口播素材，挑选合适片段，再完成剪辑、调色、字幕和发布视频组装。",
           "evidence_url": "https://github.com/browser-use/video-use"
+        }
+      ]
+    },
+    {
+      "id": "2103381720410333314",
+      "category": "production",
+      "title": {
+        "en": "Anthropic's Rise, Rendered in Code",
+        "zh-CN": "用代码呈现 Anthropic 的崛起"
+      },
+      "description": {
+        "en": "A 224-second animation about Anthropic's philosophy and rise, with visuals, music and sound effects generated in code.",
+        "zh-CN": "一支讲述 Anthropic 理念与崛起的 224 秒动画，画面、音乐和音效均由代码生成。"
+      },
+      "creator": {
+        "name": "Vincent文森特",
+        "handle": "VincentWei93"
+      },
+      "original_post_url": "https://x.com/VincentWei93/status/2103381720410333314",
+      "demo_url": "https://x.com/VincentWei93/status/2103381720410333314/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103381213595713536/vid/avc1/1920x1080/TCSoE69W72lxocD3.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103381213595713536/img/PZkKuFTKhTucW_Ia.jpg",
+      "duration_seconds": 224,
+      "views": 121596,
+      "views_checked_at": "2026-09-26T14:33:30Z",
+      "views_source_url": "https://api.fxtwitter.com/VincentWei93/status/2103381720410333314",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "WebGL",
+        "Canvas"
+      ],
+      "prompt_or_brief_url": "https://x.com/VincentWei93/status/2103494376118985207",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/VincentWei93/status/2103381720410333314&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/VincentWei93/status/2103381720410333314",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false,
+        "author_replies_checked_in_system_browser": true
+      },
+      "number": 51,
+      "github_video_url": "https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103381213595713536/vid/avc1/1280x720/Q4plxhc-lL7ShsQi.mp4?tag=29",
+        "filesize_bytes": 8477382,
+        "source_filesize_bytes": 14931700,
+        "duration_seconds": 224.049002,
+        "source_duration_seconds": 224.049342,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "8d012a65185639d897463a55fb767fca8bb318d9aa9d4a11a43578a1ce9db4d4"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/VincentWei93/status/2103494376118985207",
+          "label_en": "Prompt brief",
+          "label_zh": "提示词摘要",
+          "description_en": "Request an animation about Anthropic's philosophy and rise, with music and sound effects, without using an existing skill.",
+          "description_zh": "围绕 Anthropic 的理念与崛起制作动画，包含音乐和音效，且不使用已有 Skill。",
+          "evidence_url": "https://x.com/VincentWei93/status/2103494376118985207"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://x.com/VincentWei93/status/2103546671326199968",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Generate the visuals with WebGL and Canvas; the creator says the music and sound effects were also synthesized in code.",
+          "description_zh": "用 WebGL 与 Canvas 生成画面；作者表示音乐和音效也由代码合成。",
+          "evidence_url": "https://api.fxtwitter.com/VincentWei93/status/2103381720410333314"
         }
       ]
     },

@@ -125,6 +125,14 @@ https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190
 
 **Prompt brief:** Use the full template for a beat-synced UI morph loop rendered from a single HTML scene with Playwright and FFmpeg.
 
+### Motion-design and sound-engineering demo
+
+https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655
+
+[Original post](https://x.com/kloss_xyz/status/2103557735086428547)
+
+**Prompt brief:** Ask Claude Opus 5.5 for a 90-second motion-design and sound-engineering demo with an original piano score.
+
 <a id="education"></a>
 
 ## Education & explainers
@@ -160,6 +168,14 @@ https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d
 [Original post](https://x.com/akokoi1/status/2102583898865873225)
 
 [Prompt](https://x.com/akokoi1/status/2102584165220962502) — Ask for a lively line-art recap of 5,000 years of Chinese history with suitable music.
+
+### 81 Years of Indonesian History
+
+https://github.com/user-attachments/assets/d12b7adb-242f-4347-bd5e-ac0185e7af18
+
+[Original post](https://x.com/sonnylazuardi/status/2103511590884815282)
+
+[Prompt](https://x.com/sonnylazuardi/status/2103660301132685418) — Ask for an impressive motion-graphics reel about Indonesia's history from its first president to the present, and invite creative surprise.
 
 ### Atmospheric Circulation Explained
 
@@ -234,6 +250,16 @@ https://github.com/user-attachments/assets/ea6388a4-f341-4d32-8807-8a2e7edafce0
 https://github.com/user-attachments/assets/4eee2c03-c4a7-4f51-b946-644e89045714
 
 [Original post](https://x.com/AndrewOnXYZ/status/2102512879258009818)
+
+### From Rocks to AI
+
+https://github.com/user-attachments/assets/74c28532-a327-4c8a-a9ef-af099c265433
+
+[Original post](https://x.com/devteamdrew/status/2103523994440012086)
+
+[Implementation](https://x.com/devteamdrew/status/2103582586090270975) — Use previous video assets as style references and build a storyboard before starting.
+
+[Implementation](https://x.com/devteamdrew/status/2103763018903605624) — Produce the film in Claude Code CLI; the creator says no separate image model was used.
 
 ### The Life of Opus
 
@@ -378,6 +404,16 @@ https://github.com/user-attachments/assets/0d69cbad-283b-4645-911e-24f1e4d928eb
 [Original post](https://x.com/gregpr07/status/2102984873351037161)
 
 [Implementation](https://github.com/browser-use/video-use#how-it-works) — Use video-use to compare takes, select a clean delivery, edit, grade, caption, and assemble the launch video.
+
+### Anthropic's Rise, Rendered in Code
+
+https://github.com/user-attachments/assets/29c764e4-8fc5-45e2-954e-9bf85ca3baa1
+
+[Original post](https://x.com/VincentWei93/status/2103381720410333314)
+
+[Prompt brief](https://x.com/VincentWei93/status/2103494376118985207) — Request an animation about Anthropic's philosophy and rise, with music and sound effects, without using an existing skill.
+
+[Implementation](https://x.com/VincentWei93/status/2103546671326199968) — Generate the visuals with WebGL and Canvas; the creator says the music and sound effects were also synthesized in code.
 
 <a id="comparisons"></a>
 
