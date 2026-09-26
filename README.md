@@ -6,7 +6,7 @@
 
 A curated collection from X, with video previews, original creator posts, and available prompts, production notes and source code. Includes code animation and Claude-assisted workflows using other tools or models.
 
-**Watch: click a thumbnail or “Play video” to open the original platform-hosted MP4. Use “X post” if the direct video is unavailable.** No videos have been downloaded or reuploaded.
+**Watch: click a thumbnail or “Play video” to open the original platform-hosted MP4. Use “X post” if the direct video is unavailable.** GitHub-hosted playback copies are being added; the first inline preview is available below.
 
 **Snapshot: September 25, 2026.** Counts are reported views of the original video post at check time, not likes, unique viewers or views of a prompt reply. Exact UTC timestamps and sources are in [cases.json](cases.json).
 
@@ -129,3 +129,11 @@ Suggest a qualifying example, add production materials, or report a broken link.
 Videos, thumbnails, prompts and code remain subject to their creators’ rights and licenses. Inclusion provides attribution and links, not permission to redistribute or commercially reuse media. Creators can request corrections or removal through an issue.
 
 An independent community collection, not affiliated with or endorsed by Anthropic.
+
+## Inline playback preview
+
+### Inference startup launch explainer
+
+By [Deedy (@deedydas)](https://x.com/deedydas/status/2102787937482252537) · 329,471 original-post views (September 25, 2026 snapshot).
+
+https://github.com/user-attachments/assets/0005d4cf-acdd-42aa-af16-dbebe167126d
