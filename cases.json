@@ -6,7 +6,7 @@
     "zh-CN"
   ],
   "curated_on": "2026-09-25",
-  "inclusion_rule": "Original X video post with reported views strictly greater than 10,000 at the recorded check time.",
+  "inclusion_rule": "Normally, original X video posts with reported views strictly greater than 10,000 at the recorded check time. Explicit maintainer selections may be included with a curation_exception and the actual view snapshot.",
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
   "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
   "tool_disclosure_scope": "Tools and auxiliary models are taken from creator posts, source repositories or shared briefs. Their actual execution was not independently verified. Empty lists mean no specific additional tools or models were identified, not that none were used.",
@@ -486,6 +486,84 @@
           "evidence_url": "https://api.fxtwitter.com/ystknsh/status/2102766871007436993"
         }
       ]
+    },
+    {
+      "id": "2103419787565216023",
+      "category": "product",
+      "title": {
+        "en": "Mole Product Promo",
+        "zh-CN": "Mole 产品宣传片"
+      },
+      "description": {
+        "en": "A promotional video for Mole made with a custom skill that turns product input into a promo, according to the creator.",
+        "zh-CN": "作者为 Mole 制作产品宣传片，并表示设计了一个输入产品即可产出宣传视频的 Skill。"
+      },
+      "creator": {
+        "name": "Berryxia.AI",
+        "handle": "berryxia"
+      },
+      "original_post_url": "https://x.com/berryxia/status/2103419787565216023",
+      "demo_url": "https://x.com/berryxia/status/2103419787565216023/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103419120721285120/vid/avc1/1920x1080/XW3K7jgsrcY2vTiV.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103419120721285120/img/E6vRd2kcHl4b4rSf.jpg",
+      "duration_seconds": 60.666,
+      "views": 5894,
+      "views_checked_at": "2026-09-26T04:02:40.847265+00:00",
+      "views_source_url": "https://api.fxtwitter.com/berryxia/status/2103419787565216023",
+      "model_attribution": "The creator describes a custom skill for product promos and quotes an Opus 5.5 demo; the model used for this Mole video is not explicitly named in the main post.",
+      "model_scope": "creator_shared_in_opus_5_5_context",
+      "other_models": [],
+      "tools_reported": [
+        "Custom skill"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/berryxia/status/2103419787565216023&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/berryxia/status/2103419787565216023",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false,
+        "author_replies_checked_in_system_browser": true
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/berryxia/status/2103419787565216023",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "The creator packaged a product-to-promo workflow into a reusable skill, using Mole as the example.",
+          "description_zh": "作者将输入产品、生成宣传视频的流程封装成可复用 Skill，并用 Mole 展示成片。",
+          "evidence_url": "https://api.fxtwitter.com/berryxia/status/2103419787565216023"
+        }
+      ],
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103419120721285120/vid/avc1/1920x1080/XW3K7jgsrcY2vTiV.mp4?tag=29",
+        "filesize_bytes": 8478556,
+        "source_filesize_bytes": 19318923,
+        "duration_seconds": 60.714,
+        "source_duration_seconds": 60.714667,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "43a5c71583881acbd97a75d406fd47bcf39cda9a29a75be2085d904a8af27506"
+      },
+      "number": 47,
+      "curation_exception": {
+        "reason": "Explicitly requested by the repository owner for the product promotion category.",
+        "views_threshold_met_at_check": false,
+        "threshold_views": 10000,
+        "explicitly_requested": true,
+        "requested_on": "2026-09-26"
+      },
+      "github_video_url": "https://github.com/user-attachments/assets/6121b00b-1ad2-461d-8a62-758b6991ffde"
     },
     {
       "id": "2103315922098470926",
@@ -3292,5 +3370,6 @@
         }
       }
     ]
-  }
+  },
+  "updated_on": "2026-09-26"
 }

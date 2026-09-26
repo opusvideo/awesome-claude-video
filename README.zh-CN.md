@@ -97,6 +97,14 @@ https://github.com/user-attachments/assets/46fff581-fe7e-4cbb-bfa9-275c73724384
 
 **实现方式:** 用 MulmoCast 制作视频、Opus 编写脚本和动画、Gemini 生成图片与语音、ElevenLabs 生成音乐。
 
+### Mole 产品宣传片
+
+https://github.com/user-attachments/assets/6121b00b-1ad2-461d-8a62-758b6991ffde
+
+[原帖](https://x.com/berryxia/status/2103419787565216023)
+
+**实现方式:** 作者将输入产品、生成宣传视频的流程封装成可复用 Skill，并用 Mole 展示成片。
+
 <a id="motion"></a>
 
 ## 动态图形与界面动效

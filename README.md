@@ -97,6 +97,14 @@ https://github.com/user-attachments/assets/46fff581-fe7e-4cbb-bfa9-275c73724384
 
 **Implementation:** Use MulmoCast for video production, Opus for script and animation, Gemini for images and voice, and ElevenLabs for music.
 
+### Mole Product Promo
+
+https://github.com/user-attachments/assets/6121b00b-1ad2-461d-8a62-758b6991ffde
+
+[Original post](https://x.com/berryxia/status/2103419787565216023)
+
+**Implementation:** The creator packaged a product-to-promo workflow into a reusable skill, using Mole as the example.
+
 <a id="motion"></a>
 
 ## Motion graphics & UI

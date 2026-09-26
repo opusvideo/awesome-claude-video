@@ -5,7 +5,7 @@ Suggest a case or correction through an issue or pull request. English is the de
 ## Submit a case
 
 - Link the creator's original X video post and confirm that it contains the work. Check for duplicate posts, reposts, and duplicate videos.
-- Verify that the original post has **strictly more than 10,000 views**. Keep the exact count, UTC snapshot time, and evidence URL in `cases.json`; do not display counts in the README. Likes, reposts, or combined thread views do not substitute for the original post's views.
+- The usual inclusion threshold is **strictly more than 10,000 views** on the original post. A case explicitly selected by the maintainer may be included as a recorded exception. Keep the actual count, UTC snapshot time, evidence URL, and any exception in `cases.json`; do not display counts in the README. Likes, reposts, or combined thread views do not substitute for the original post's views.
 - Provide an English and Chinese title and choose the category that best describes the work. Keep claims grounded in the creator's public statements.
 - Provide a GitHub video attachment URL so the demo plays inside both README pages. Put the URL on a line by itself, outside tables. Keep the complete video and any original audio; record compression and original media URLs in `cases.json`.
 - Add prompts or implementation resources when publicly available. Check the original post and author replies, then verify that the linked material belongs to this specific work. Summarize it briefly in both languages. Label a short creative brief as a brief and distinguish a description of the workflow from a full prompt. Do not invent instructions, infer unreported tools, or treat an unverified “prompt in replies” claim as a source.
@@ -27,7 +27,7 @@ For corrections, identify the original post and supply supporting evidence. Crea
 ## 提交案例
 
 - 提供创作者发布视频的 X 原帖，确认帖子包含作品，并检查重复帖子、转帖和重复视频。
-- 核验原帖浏览量**严格超过 10,000**。在 `cases.json` 中保留精确浏览量、UTC 快照时间及证据链接，README 不展示浏览量。点赞、转发和整个讨论串的合计浏览量不能代替原帖浏览量。
+- 常规收录要求原帖浏览量**严格超过 10,000**。维护者明确指定的案例可以作为例外收录。在 `cases.json` 中保留真实浏览量、UTC 快照时间、证据链接及例外记录，README 不展示浏览量。点赞、转发和整个讨论串的合计浏览量不能代替原帖浏览量。
 - 提供中英文标题，按作品内容选择分类。描述应有作者公开说明作为依据。
 - 提供 GitHub 视频附件链接，让中英文页面都能直接播放。附件链接独占一行，放在表格之外。保留完整视频和原有音轨，在 `cases.json` 中记录压缩情况及原始媒体链接。
 - 有公开提示词或实现方式时即可补充。检查原帖及作者回复，并确认链接内容属于该作品，再提供中英文简短摘要。简短创作指令应标为摘要，制作流程说明应与完整提示词区分。不要编造指令、推断未披露的工具，也不要把尚未核实的“提示词见回复”当作来源。
