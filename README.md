@@ -4,6 +4,8 @@
 
 A curated collection of animations and videos made with Claude Opus 5.5, with original posts, prompts, and workflows.
 
+[Full implementation guides for every case with a disclosed prompt](IMPLEMENTATION_GUIDES.md)
+
 <table>
   <tr>
     <td width="25%" align="center">
@@ -105,6 +107,14 @@ https://github.com/user-attachments/assets/6121b00b-1ad2-461d-8a62-758b6991ffde
 
 **Implementation:** The creator packaged a product-to-promo workflow into a reusable skill, using Mole as the example.
 
+### Pocketsflow Motion-Graphics Promo
+
+https://github.com/user-attachments/assets/2154915d-0eca-450b-b7fe-f9b1ddd756b7
+
+[Original post](https://x.com/achxvi/status/2103918792845963545)
+
+[Full implementation](IMPLEMENTATION_GUIDES.md#case-2103918792845963545) — Make a 15-second résumé-quality Pocketsflow promo, securely provide ElevenLabs narration, and use a speaking character to explain what the product does and how people use it.
+
 <a id="motion"></a>
 
 ## Motion graphics & UI
@@ -124,6 +134,8 @@ https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190
 [Original post](https://x.com/twoclipping/status/2103273003555402193)
 
 **Prompt brief:** Use the full template for a beat-synced UI morph loop rendered from a single HTML scene with Playwright and FFmpeg.
+
+[Full implementation](IMPLEMENTATION_GUIDES.md#case-2103273003555402193) — Gather 8–12 UI states and a ~120 BPM track; build a 1440×1440 pure-time HTML animation with closed-form springs and cursor-driven manipulation; align every event with a NumPy beat grid; render four Playwright subframes per frame and blend them with FFmpeg; then verify every beat and an exact first/last-frame loop. The linked guide preserves the full seven-bar state sequence and all published gotchas. A later Chinese repost is linked there as a duplicate-source translation, not counted as a second video.
 
 ### Motion-design and sound-engineering demo
 
@@ -260,6 +272,14 @@ https://github.com/user-attachments/assets/74c28532-a327-4c8a-a9ef-af099c265433
 [Implementation](https://x.com/devteamdrew/status/2103582586090270975) — Use previous video assets as style references and build a storyboard before starting.
 
 [Implementation](https://x.com/devteamdrew/status/2103763018903605624) — Produce the film in Claude Code CLI; the creator says no separate image model was used.
+
+### Pip in an AI-Generated World
+
+https://github.com/user-attachments/assets/6764161e-1d18-47c6-bac6-b56b315547e4
+
+[Original post](https://x.com/pradeepXkapoor/status/2103099194693271874)
+
+[Full implementation](IMPLEMENTATION_GUIDES.md#case-2103099194693271874) — Build a reference-locked SVG character rig in Remotion, move Pip through seven code-rendered worlds with diffusion-style regeneration transitions, stage a six-act wordless story, synthesize its audio, and pass iterative still/contact-sheet and loop checks.
 
 ### The Life of Opus
 

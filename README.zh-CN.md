@@ -4,6 +4,8 @@
 
 精选 Claude Opus 5.5 辅助创作的动画与视频，汇集原帖、提示词和实现方式。
 
+[所有公开提示词案例的完整实现指南](IMPLEMENTATION_GUIDES.md#中文)
+
 <table>
   <tr>
     <td width="25%" align="center">
@@ -105,6 +107,14 @@ https://github.com/user-attachments/assets/6121b00b-1ad2-461d-8a62-758b6991ffde
 
 **实现方式:** 作者将输入产品、生成宣传视频的流程封装成可复用 Skill，并用 Mole 展示成片。
 
+### Pocketsflow 动态图形宣传片
+
+https://github.com/user-attachments/assets/2154915d-0eca-450b-b7fe-f9b1ddd756b7
+
+[原帖](https://x.com/achxvi/status/2103918792845963545)
+
+[完整实现方式](IMPLEMENTATION_GUIDES.md#case-2103918792845963545-zh) — 制作 15 秒作品集级 Pocketsflow 宣传片，通过安全环境变量提供 ElevenLabs 配音，并让角色讲清产品用途、使用方式和能力。
+
 <a id="motion"></a>
 
 ## 动态图形与界面动效
@@ -124,6 +134,8 @@ https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190
 [原帖](https://x.com/twoclipping/status/2103273003555402193)
 
 **提示词摘要:** 使用原帖完整模板，让一个 HTML 场景中的 UI 按节拍连续变形，再用 Playwright 与 FFmpeg 渲染。
+
+[完整实现方式](IMPLEMENTATION_GUIDES.md#case-2103273003555402193-zh) — 先收集 8–12 个 UI 状态和约 120 BPM 音乐；在 1440×1440 单页 HTML 中用纯时间函数、闭式弹簧和光标直接操控完成动画；以 NumPy 对齐节拍；每帧用 Playwright 渲染 4 个子帧，再由 FFmpeg 混合；最后逐拍检查并保证首尾帧及光标速度完全一致。链接中保留了完整 7 小节状态序列与所有避坑项。后来的中文转载作为同一视频的模板译文来源补充，不重复计数。
 
 ### 动态设计与声音工程演示
 
@@ -260,6 +272,14 @@ https://github.com/user-attachments/assets/74c28532-a327-4c8a-a9ef-af099c265433
 [实现方式](https://x.com/devteamdrew/status/2103582586090270975) — 以作者此前视频的素材作为风格参考，先完成故事板再开始制作。
 
 [实现方式](https://x.com/devteamdrew/status/2103763018903605624) — 在 Claude Code CLI 中制作；作者表示没有使用其他图像模型。
+
+### 被困在 AI 世界里的 Pip
+
+https://github.com/user-attachments/assets/6764161e-1d18-47c6-bac6-b56b315547e4
+
+[原帖](https://x.com/pradeepXkapoor/status/2103099194693271874)
+
+[完整实现方式](IMPLEMENTATION_GUIDES.md#case-2103099194693271874-zh) — 在 Remotion 中搭建严格锁定参考图的 SVG 角色骨骼，让 Pip 穿越七种代码生成世界和扩散式重生成转场，按六幕无对白故事完成画面与程序化音效，并通过逐镜头静帧、联系表和无缝循环验收。
 
 ### Opus 的一生
 

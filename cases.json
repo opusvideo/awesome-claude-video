@@ -1,5 +1,5 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "default_language": "en",
   "languages": [
     "en",
@@ -10,6 +10,7 @@
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
   "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
   "tool_disclosure_scope": "Tools and auxiliary models are taken from creator posts, source repositories or shared briefs. Their actual execution was not independently verified. Empty lists mean no specific additional tools or models were identified, not that none were used.",
+  "implementation_guide_url": "IMPLEMENTATION_GUIDES.md",
   "categories": [
     {
       "id": "product",
@@ -702,7 +703,18 @@
           "label_zh": "提示词与渲染方式",
           "description_en": "Use the full template for a beat-synced UI morph loop rendered from a single HTML scene with Playwright and FFmpeg.",
           "description_zh": "使用原帖完整模板，让一个 HTML 场景中的 UI 按节拍连续变形，再用 Playwright 与 FFmpeg 渲染。",
-          "evidence_url": "https://api.fxtwitter.com/twoclipping/status/2103273003555402193"
+          "evidence_url": "https://api.fxtwitter.com/twoclipping/status/2103273003555402193",
+          "implementation_guide_url": "IMPLEMENTATION_GUIDES.md#case-2103273003555402193"
+        },
+        {
+          "kind": "prompt_translation",
+          "url": "https://x.com/xingbugengming/status/2103495844414837126",
+          "label_en": "Chinese prompt-template repost",
+          "label_zh": "中文提示词模板转载",
+          "description_en": "A Chinese repost of the same underlying video and its complete input, direction, seven-bar structure, pure-time HTML build, beat analysis, Playwright/FFmpeg render recipe and loop gotchas. Kept as a resource rather than a duplicate case.",
+          "description_zh": "同一视频的中文转载，完整公开输入项、视觉方向、7 小节结构、纯时间函数 HTML、节拍分析、Playwright/FFmpeg 渲染和循环避坑；作为资料补充，不重复收录视频。",
+          "evidence_url": "https://api.fxtwitter.com/xingbugengming/status/2103495844414837126",
+          "implementation_guide_url": "IMPLEMENTATION_GUIDES.md#case-2103273003555402193"
         }
       ]
     },
@@ -3574,6 +3586,164 @@
         "sha256": "df574901f3940149b98e69f2709905f807368fb3b933388652d51e836e136a7a"
       },
       "resources": []
+    },
+    {
+      "id": "2103918792845963545",
+      "category": "product",
+      "title": {
+        "en": "Pocketsflow Motion-Graphics Promo",
+        "zh-CN": "Pocketsflow 动态图形宣传片"
+      },
+      "description": {
+        "en": "A 15-second product showreel reportedly produced by Opus 5.5 in about 15 minutes, with the complete public brief and an ElevenLabs narration workflow.",
+        "zh-CN": "一支据称由 Opus 5.5 在约 15 分钟内完成的 15 秒产品作品集短片，作者公开了完整任务说明与 ElevenLabs 配音流程。"
+      },
+      "creator": {
+        "name": "Chain",
+        "handle": "achxvi"
+      },
+      "original_post_url": "https://x.com/achxvi/status/2103918792845963545",
+      "demo_url": "https://x.com/achxvi/status/2103918792845963545/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103918273414791168/vid/avc1/1920x1080/ZN2B5J7DqR2itqzt.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103918273414791168/img/4nc-LE_FerctutUy.jpg",
+      "duration_seconds": 15,
+      "views": 53963,
+      "views_checked_at": "2026-09-26T23:15:00Z",
+      "views_source_url": "https://api.fxtwitter.com/achxvi/status/2103918792845963545",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "ElevenLabs"
+      ],
+      "prompt_or_brief_url": "https://x.com/achxvi/status/2103938227786654016",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/achxvi/status/2103918792845963545&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/achxvi/status/2103918792845963545",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 52,
+      "github_video_url": "https://github.com/user-attachments/assets/2154915d-0eca-450b-b7fe-f9b1ddd756b7",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103918273414791168/vid/avc1/1280x720/SnyRgmxxZHnOG4iS.mp4?tag=29",
+        "filesize_bytes": 2485872,
+        "source_filesize_bytes": 2485872,
+        "duration_seconds": 15.061333,
+        "source_duration_seconds": 15.061333,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "f210cf62b708de7aab7974c18197003843b22a26274fd01bb6c8e18fefd9f672"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/achxvi/status/2103938227786654016",
+          "label_en": "Full public brief",
+          "label_zh": "完整公开任务说明",
+          "description_en": "Create a dynamic 15-second résumé-quality Pocketsflow promo, use securely supplied ElevenLabs narration, and have a character explain the product's uses and capabilities.",
+          "description_zh": "制作 15 秒作品集级 Pocketsflow 宣传片，安全接入 ElevenLabs 配音，并让角色讲解产品用途和能力。",
+          "evidence_url": "https://api.fxtwitter.com/achxvi/status/2103938227786654016",
+          "implementation_guide_url": "IMPLEMENTATION_GUIDES.md#case-2103918792845963545"
+        }
+      ]
+    },
+    {
+      "id": "2103099194693271874",
+      "category": "stories",
+      "title": {
+        "en": "Pip in an AI-Generated World",
+        "zh-CN": "被困在 AI 世界里的 Pip"
+      },
+      "description": {
+        "en": "A code-rendered animated short about a tiny robot discovering that prompts are regenerating its reality, moving through many visual styles before a looping phone-screen reveal.",
+        "zh-CN": "一支代码渲染动画短片：小机器人发现提示词正在重生成自己的现实，穿越多种视觉风格，并以手机屏幕揭示完成循环。"
+      },
+      "creator": {
+        "name": "Pradeep Kapoor",
+        "handle": "pradeepXkapoor"
+      },
+      "original_post_url": "https://x.com/pradeepXkapoor/status/2103099194693271874",
+      "demo_url": "https://x.com/pradeepXkapoor/status/2103099194693271874/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103099085012209664/vid/avc1/3840x2160/UqNwOhVudU_cN-bp.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103099085012209664/img/tnymrQzt03CZbhBI.jpg",
+      "duration_seconds": 75,
+      "views": 59418,
+      "views_checked_at": "2026-09-26T23:15:00Z",
+      "views_source_url": "https://api.fxtwitter.com/pradeepXkapoor/status/2103099194693271874",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Remotion",
+        "React",
+        "TypeScript",
+        "SVG",
+        "Canvas/WebGL",
+        "Python",
+        "NumPy/SciPy/PIL",
+        "FFmpeg"
+      ],
+      "prompt_or_brief_url": "https://x.com/pradeepXkapoor/status/2103176289482154373",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/pradeepXkapoor/status/2103099194693271874&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/pradeepXkapoor/status/2103099194693271874",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": false,
+        "independently_reproduced": false
+      },
+      "number": 53,
+      "github_video_url": "https://github.com/user-attachments/assets/6764161e-1d18-47c6-bac6-b56b315547e4",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103099085012209664/vid/avc1/1280x720/TEEDWG4NVS0RjKYQ.mp4?tag=29",
+        "filesize_bytes": 7795642,
+        "source_filesize_bytes": 17478996,
+        "duration_seconds": 75.047007,
+        "source_duration_seconds": 75.047007,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "d84e17c1f36e27c2ff086e2a5c91ddc87a2527cbdcb9e324d7fbe42be4fba9f3"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/pradeepXkapoor/status/2103176289482154373",
+          "label_en": "Full production prompt",
+          "label_zh": "完整制作提示词",
+          "description_en": "A detailed production specification covering the Pip character bible and rig, Remotion stack, style-locked worlds, diffusion regeneration transitions, six-act beat sheet, cinematography, procedural sound, repeated visual scoring and loop deliverables.",
+          "description_zh": "详细制作规范，覆盖 Pip 角色圣经与骨骼、Remotion 技术栈、多世界风格锁定、扩散重生成转场、六幕节拍、摄影、程序化声音、反复视觉评分和循环交付物。",
+          "evidence_url": "https://api.fxtwitter.com/pradeepXkapoor/status/2103176289482154373",
+          "implementation_guide_url": "IMPLEMENTATION_GUIDES.md#case-2103099194693271874"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://x.com/pradeepXkapoor/status/2103109958904754243",
+          "label_en": "All-code clarification",
+          "label_zh": "纯代码说明",
+          "description_en": "The creator explicitly says no Higgsfield was used and the result was all code.",
+          "description_zh": "作者明确说明未使用 Higgsfield，作品全部由代码完成。",
+          "evidence_url": "https://x.com/pradeepXkapoor/status/2103109958904754243"
+        }
+      ]
     }
   ],
   "hero": {
@@ -3678,5 +3848,5 @@
       }
     ]
   },
-  "updated_on": "2026-09-26"
+  "updated_on": "2026-09-27"
 }
