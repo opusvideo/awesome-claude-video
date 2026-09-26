@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "default_language": "en",
   "languages": [
     "en",
@@ -8,7 +8,7 @@
   "curated_on": "2026-09-25",
   "inclusion_rule": "Original X video post with reported views strictly greater than 10,000 at the recorded check time.",
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
-  "media_policy": "Original videos and thumbnails remain hosted by their creators/platform. No videos were downloaded or reuploaded.",
+  "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
   "tool_disclosure_scope": "Tools and auxiliary models are taken from creator posts, source repositories or shared briefs. Their actual execution was not independently verified. Empty lists mean no specific additional tools or models were identified, not that none were used.",
   "categories": [
     {
@@ -99,7 +99,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 1
+      "number": 1,
+      "github_video_url": "https://github.com/user-attachments/assets/0005d4cf-acdd-42aa-af16-dbebe167126d",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102787906494668800/vid/avc1/1920x1080/JZlNPRlJmaOn75P8.mp4?tag=29",
+        "filesize_bytes": 5025470,
+        "source_filesize_bytes": 5025470,
+        "duration_seconds": 26.052789,
+        "source_duration_seconds": 26.052789,
+        "width": 1920,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "de4294dfea47862963cb7eda4d9fed99fd076f7ccb2c986cdc08b9be60e88fd9"
+      }
     },
     {
       "id": "2102477340920152162",
@@ -138,7 +156,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 2
+      "number": 2,
+      "github_video_url": "https://github.com/user-attachments/assets/89d8eb9f-d1cf-4006-913b-90fefc4c7e97",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29",
+        "filesize_bytes": 8642900,
+        "source_filesize_bytes": 27049866,
+        "duration_seconds": 95.466667,
+        "source_duration_seconds": 95.475,
+        "width": 960,
+        "height": 542,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "a0de9f91ce6daf5b1d8ce6aa99f6be4967f346b4ceaf68c0e5101b3534e54756"
+      }
     },
     {
       "id": "2102441708395041170",
@@ -179,7 +214,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 3
+      "number": 3,
+      "github_video_url": "https://github.com/user-attachments/assets/19d32236-5e74-4796-8623-ef4749c2a261",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102441459496697856/vid/avc1/1920x1080/tiZHwMtGZWtWu30v.mp4?tag=29",
+        "filesize_bytes": 8622494,
+        "source_filesize_bytes": 27546496,
+        "duration_seconds": 58.304,
+        "source_duration_seconds": 58.304,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "cdb150ad7e829136c39f93e08229ed65ea3ef15cb811419d82586f8bdfa2c4ab"
+      }
     },
     {
       "id": "2102636308707287201",
@@ -221,7 +274,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 4
+      "number": 4,
+      "github_video_url": "https://github.com/user-attachments/assets/5bf49466-ad03-4634-a831-047b83bbf01a",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102633196349485056/vid/avc1/1080x1920/Ncdj3LFvJFFclaZu.mp4?tag=29",
+        "filesize_bytes": 8528252,
+        "source_filesize_bytes": 15386389,
+        "duration_seconds": 30.058,
+        "source_duration_seconds": 30.058667,
+        "width": 540,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "eff5bda09a61de27162c3b31daef980b019acacc7a8cdd593d1d73b82edb3e4f"
+      }
     },
     {
       "id": "2103227982592831846",
@@ -267,7 +338,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 5
+      "number": 5,
+      "github_video_url": "https://github.com/user-attachments/assets/5688798b-626d-489d-8ad7-c31c2e6abcb9",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103139866519498752/vid/avc1/1920x1080/qFe_AngQvV_CRQDV.mp4?tag=29",
+        "filesize_bytes": 8679099,
+        "source_filesize_bytes": 23753296,
+        "duration_seconds": 28.586,
+        "source_duration_seconds": 28.586667,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "2a3928a7efaf157beb9d3f8aeb768987d469827cc5a6e1745b8b6daab7c916ff"
+      }
     },
     {
       "id": "2102766871007436993",
@@ -312,7 +401,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 6
+      "number": 6,
+      "github_video_url": "https://github.com/user-attachments/assets/46fff581-fe7e-4cbb-bfa9-275c73724384",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102766753185234944/vid/avc1/1280x720/xcGLi8UJ2ya_kG2R.mp4?tag=14",
+        "filesize_bytes": 2169957,
+        "source_filesize_bytes": 2169957,
+        "duration_seconds": 30.046621,
+        "source_duration_seconds": 30.046621,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "b989c10cbfe1cf3763d71e8a5fec7cabfed35a41a345993f8ec54b25043758e6"
+      }
     },
     {
       "id": "2103315922098470926",
@@ -351,7 +458,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 7
+      "number": 7,
+      "github_video_url": "https://github.com/user-attachments/assets/50e1566c-a40d-4f6a-9cf3-246be4058b4a",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103315748496302080/vid/avc1/1920x1080/Ug6RUqJ59vKTsnPX.mp4?tag=29",
+        "filesize_bytes": 8463499,
+        "source_filesize_bytes": 8463499,
+        "duration_seconds": 15.061333,
+        "source_duration_seconds": 15.061333,
+        "width": 1920,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "019e1bf7bbc11236d517fac09deeb0aca164a55f29988e9d5f939fb00d04dbd4"
+      }
     },
     {
       "id": "2103273003555402193",
@@ -395,7 +520,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 8
+      "number": 8,
+      "github_video_url": "https://github.com/user-attachments/assets/720d0d02-845b-4d07-b66a-99bd718f0190",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103272964967804928/vid/avc1/1440x1440/DMnmDsC9z0gcgSUX.mp4?tag=29",
+        "filesize_bytes": 2702437,
+        "source_filesize_bytes": 2702437,
+        "duration_seconds": 14.058667,
+        "source_duration_seconds": 14.058667,
+        "width": 1440,
+        "height": 1440,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "197e843ef6c7e2271d04cdc79defb45eaebe832e2db7fa8170e141b06fb4cd3c"
+      }
     },
     {
       "id": "2102591147927654847",
@@ -434,7 +577,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 9
+      "number": 9,
+      "github_video_url": "https://github.com/user-attachments/assets/442ad7c1-0abc-4d15-964e-b558b8c82107",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1920x1080/0zt2fNiA4QMgvhkM.mp4?tag=29",
+        "filesize_bytes": 8657105,
+        "source_filesize_bytes": 15142110,
+        "duration_seconds": 32.0,
+        "source_duration_seconds": 32.0,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "4a8db143e1bbf8d257d4b0c3fb73b0b54c84d2f0932bd1cd2645431ff1dbe306"
+      }
     },
     {
       "id": "2103141339651350646",
@@ -473,7 +633,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 10
+      "number": 10,
+      "github_video_url": "https://github.com/user-attachments/assets/9a73f239-1e87-42a9-b070-1cbb8fca1c2c",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103141174626439168/vid/avc1/1920x1080/F3WFzkZrrP9a91VS.mp4?tag=29",
+        "filesize_bytes": 8540414,
+        "source_filesize_bytes": 31455032,
+        "duration_seconds": 519.0,
+        "source_duration_seconds": 519.0,
+        "width": 360,
+        "height": 202,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "04dac7f439ff56c6f3b2dc735f42ddfb17538545f2d084c3e8fac446c5b987d0"
+      }
     },
     {
       "id": "2102844654169575547",
@@ -521,7 +699,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 11
+      "number": 11,
+      "github_video_url": "https://github.com/user-attachments/assets/893741ba-52e4-4097-afab-ddd260bd8687",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102844491820670976/vid/avc1/1920x1080/JciZjVTMqHe6HsqX.mp4?tag=16",
+        "filesize_bytes": 8842879,
+        "source_filesize_bytes": 29049864,
+        "duration_seconds": 180.096,
+        "source_duration_seconds": 180.096,
+        "width": 640,
+        "height": 360,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "253eccbfa5b7e37d990ac2ddb181d5ca4d080d6f6b00d4917b33421febaf4298"
+      }
     },
     {
       "id": "2102583898865873225",
@@ -560,7 +756,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 12
+      "number": 12,
+      "github_video_url": "https://github.com/user-attachments/assets/120d98a4-47d7-43ba-81ee-7a492fa5ec0d",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102583173507158016/vid/avc1/1926x1080/SrxJejnQ4gatEQAi.mp4?tag=29",
+        "filesize_bytes": 7579998,
+        "source_filesize_bytes": 50845717,
+        "duration_seconds": 157.64,
+        "source_duration_seconds": 157.640272,
+        "width": 720,
+        "height": 402,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "52fccf96ae136f3b4bd0d7beebb67e83d826fffb2a3cc9c00d1a17a02dbda0c6"
+      }
     },
     {
       "id": "2102606609574941028",
@@ -603,7 +817,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 13
+      "number": 13,
+      "github_video_url": "https://github.com/user-attachments/assets/2c87394f-8224-4e89-bf04-36ccbe5d574f",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102600725981446144/vid/avc1/1920x1080/aI1wVJM8-CwO-gsY.mp4?tag=29",
+        "filesize_bytes": 8857296,
+        "source_filesize_bytes": 77820963,
+        "duration_seconds": 288.15,
+        "source_duration_seconds": 288.133333,
+        "width": 480,
+        "height": 270,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "c0d5659aede6d5b0cfbc8338a92ff64a2896bd05dc53f877dccb8af1f8481a88"
+      }
     },
     {
       "id": "2102853258582880547",
@@ -645,7 +877,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 14
+      "number": 14,
+      "github_video_url": "https://github.com/user-attachments/assets/a675be87-848d-4ccb-9099-38e67eeda590",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102853041246347264/vid/avc1/1080x1080/gHD5YPPHdPJDh8GO.mp4?tag=29",
+        "filesize_bytes": 5572271,
+        "source_filesize_bytes": 5572271,
+        "duration_seconds": 30.0,
+        "source_duration_seconds": 30.0,
+        "width": 1080,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "f73f0ab34e4ec8abd77de98241ae41305d6f3699910f918f7ff688a548f105ec"
+      }
     },
     {
       "id": "2102722719502704941",
@@ -688,7 +937,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 15
+      "number": 15,
+      "github_video_url": "https://github.com/user-attachments/assets/1f4fa300-b648-4bc8-880e-fc3a1f56ee2a",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102722648593891328/vid/avc1/1080x1080/uhM8s1mtirGfFr2X.mp4?tag=16",
+        "filesize_bytes": 5071559,
+        "source_filesize_bytes": 5071559,
+        "duration_seconds": 46.549333,
+        "source_duration_seconds": 46.549333,
+        "width": 1080,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "767d4ca39609147efb4ecdc59c28ebc13edbb1186c3002bad25f2dcc4376bcab"
+      }
     },
     {
       "id": "2103116235009347650",
@@ -737,7 +1004,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 16
+      "number": 16,
+      "github_video_url": "https://github.com/user-attachments/assets/b184c248-70ea-486a-afa8-223bdf7ff943",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103113452726140928/vid/avc1/1920x1080/7kwgLDfFWkBBQ35Z.mp4?tag=29",
+        "filesize_bytes": 8870718,
+        "source_filesize_bytes": 86708203,
+        "duration_seconds": 301.376,
+        "source_duration_seconds": 301.376,
+        "width": 480,
+        "height": 270,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "275a0d9bcdba6572e9cea747e070af2824e16971c0b72acb4109a8eda914c416"
+      }
     },
     {
       "id": "2102680453912449223",
@@ -776,7 +1061,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 17
+      "number": 17,
+      "github_video_url": "https://github.com/user-attachments/assets/de2a3655-f171-4220-9e51-ff1df27fede3",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102675543351275520/vid/avc1/1920x1080/kxzPSBWLE4WmzQJX.mp4?tag=29",
+        "filesize_bytes": 8900006,
+        "source_filesize_bytes": 29542793,
+        "duration_seconds": 189.269,
+        "source_duration_seconds": 189.269333,
+        "width": 640,
+        "height": 360,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "565e2cb63cf0d5b1cff2231599b98454b1d3c59062d47599b895eb486bf0c266"
+      }
     },
     {
       "id": "2102827887732932956",
@@ -818,7 +1121,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 18
+      "number": 18,
+      "github_video_url": "https://github.com/user-attachments/assets/d8d0a72e-d750-48a0-b84c-1f3f6c3d2188",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102827850864934912/vid/avc1/1080x1920/ygNrPAgjD25Y4Br_.mp4?tag=16",
+        "filesize_bytes": 8755780,
+        "source_filesize_bytes": 11412710,
+        "duration_seconds": 83.712,
+        "source_duration_seconds": 83.712,
+        "width": 540,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "e84d154d562eca08468813d2484eacd5f7454762f1d04785b6b3b59748dbc36c"
+      }
     },
     {
       "id": "2102437977435893771",
@@ -859,7 +1180,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 19
+      "number": 19,
+      "github_video_url": "https://github.com/user-attachments/assets/83111706-8607-496b-9faa-cb3fd969f388",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/2160x2160/W4jj3wTem9xWvmrR.mp4?tag=29",
+        "filesize_bytes": 8595849,
+        "source_filesize_bytes": 20730835,
+        "duration_seconds": 28.053,
+        "source_duration_seconds": 28.053333,
+        "width": 960,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "74d105dcf42703653ea361cb5eeba9a430592e196f4aabc3b1100d6b5b23aea9"
+      }
     },
     {
       "id": "2102476258948927543",
@@ -900,7 +1239,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 20
+      "number": 20,
+      "github_video_url": "https://github.com/user-attachments/assets/ea6388a4-f341-4d32-8807-8a2e7edafce0",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29",
+        "filesize_bytes": 931139,
+        "source_filesize_bytes": 931139,
+        "duration_seconds": 11.284898,
+        "source_duration_seconds": 11.284898,
+        "width": 1080,
+        "height": 890,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "5d7eaa2266da73c08a11b41cca9c35d10b994e0f1fc08e6c2f5eec977e630fe3"
+      }
     },
     {
       "id": "2102512879258009818",
@@ -943,7 +1300,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 21
+      "number": 21,
+      "github_video_url": "https://github.com/user-attachments/assets/4eee2c03-c4a7-4f51-b946-644e89045714",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102512551380619264/vid/avc1/1280x720/LscHdEggUW0fAmsL.mp4?tag=14",
+        "filesize_bytes": 8910781,
+        "source_filesize_bytes": 18288105,
+        "duration_seconds": 239.424,
+        "source_duration_seconds": 239.424,
+        "width": 640,
+        "height": 360,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "a1c49d6f702f27459c0e350fc52c40b33c4481acb6c3eacc75384f30e77af1ac"
+      }
     },
     {
       "id": "2102495989194236158",
@@ -984,7 +1359,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 22
+      "number": 22,
+      "github_video_url": "https://github.com/user-attachments/assets/542174cd-2388-4aff-8e4a-06a525083c6b",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102495951738822657/vid/avc1/1762x982/Cu3fA7dv2tNbHj64.mp4?tag=29",
+        "filesize_bytes": 8896120,
+        "source_filesize_bytes": 8896120,
+        "duration_seconds": 30.171667,
+        "source_duration_seconds": 30.171667,
+        "width": 1762,
+        "height": 982,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "c59b0c25684360ee25bf0ae8c2fabdbf08afad897c7812b398eded470409b461"
+      }
     },
     {
       "id": "2102478640428773861",
@@ -1025,7 +1417,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 23
+      "number": 23,
+      "github_video_url": "https://github.com/user-attachments/assets/a8be0c0f-7129-49ca-9d0a-f02196b9e2fc",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29",
+        "filesize_bytes": 8973062,
+        "source_filesize_bytes": 26289815,
+        "duration_seconds": 30.058,
+        "source_duration_seconds": 30.058667,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "b97ed20909912afa5a2a180ed36ee5dc194f46ee25cd14f425e0bd5943b578a6"
+      }
     },
     {
       "id": "2102531681450119426",
@@ -1069,7 +1479,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 24
+      "number": 24,
+      "github_video_url": "https://github.com/user-attachments/assets/0dc0cb18-9c0e-4d51-a40f-334ba80a5a1b",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102528357988515840/vid/avc1/2160x2160/mj-Acki4JGn_lnxK.mp4?tag=29",
+        "filesize_bytes": 8665113,
+        "source_filesize_bytes": 75163188,
+        "duration_seconds": 29.056,
+        "source_duration_seconds": 29.056,
+        "width": 960,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "db6e5b0e068037e4214d7cfaf114047eae9c50436e99f36ef866c77666caa21b"
+      }
     },
     {
       "id": "2102493303388475855",
@@ -1108,7 +1536,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 25
+      "number": 25,
+      "github_video_url": "https://github.com/user-attachments/assets/6b212cfe-f899-43be-9bbd-b0b21723f797",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29",
+        "filesize_bytes": 8662160,
+        "source_filesize_bytes": 16913762,
+        "duration_seconds": 30.046009,
+        "source_duration_seconds": 30.046621,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "9507c3aa4edeb1f22f89defdcec017e7563227e198a7afa94649e4a4193ded86"
+      }
     },
     {
       "id": "2102498589259821559",
@@ -1147,7 +1593,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 26
+      "number": 26,
+      "github_video_url": "https://github.com/user-attachments/assets/88eeba00-42d2-4147-a77e-ab64d0522dc5",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102498362331201537/vid/avc1/1080x1920/YJVbJ8i5lHe0lA1P.mp4?tag=29",
+        "filesize_bytes": 8698392,
+        "source_filesize_bytes": 33744370,
+        "duration_seconds": 32.042,
+        "source_duration_seconds": 32.042667,
+        "width": 540,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "deb0884eb52bb859437a8db8ddd5b0447f5468b64d9ff47d8499321bc783c71a"
+      }
     },
     {
       "id": "2102699703309898026",
@@ -1186,7 +1650,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 27
+      "number": 27,
+      "github_video_url": "https://github.com/user-attachments/assets/0756acea-f8a7-41f0-bae4-a29f5cb4bb69",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102699399768109056/vid/avc1/1920x1080/WI225XeKPY969qPH.mp4?tag=29",
+        "filesize_bytes": 8912232,
+        "source_filesize_bytes": 97030305,
+        "duration_seconds": 235.392,
+        "source_duration_seconds": 235.392,
+        "width": 640,
+        "height": 360,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "cb646a8050d61903d896cb008871430afe7bf8008f1db5fd3cdc55ceea5e33e6"
+      }
     },
     {
       "id": "2102436464323661880",
@@ -1225,7 +1707,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 28
+      "number": 28,
+      "github_video_url": "https://github.com/user-attachments/assets/a0a1f0af-38f3-4558-8c8f-ca9031c1dd88",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29",
+        "filesize_bytes": 8593491,
+        "source_filesize_bytes": 29936269,
+        "duration_seconds": 31.978,
+        "source_duration_seconds": 31.978667,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "2d3441b7b8fbad3c7ad62e60008e0f4ae821a987ccc6098c43c162d0e61dfe2f"
+      }
     },
     {
       "id": "2102463453176979794",
@@ -1267,7 +1767,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 29
+      "number": 29,
+      "github_video_url": "https://github.com/user-attachments/assets/879dd914-2191-497e-b9fd-7c71e65c4e62",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29",
+        "filesize_bytes": 8672581,
+        "source_filesize_bytes": 46135767,
+        "duration_seconds": 60.01,
+        "source_duration_seconds": 60.010667,
+        "width": 960,
+        "height": 768,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "011d12c9f7abf20d8c8be0531d906e8429583b9d71cfe6cc0108114871e696ab"
+      }
     },
     {
       "id": "2102445641205248145",
@@ -1306,7 +1824,25 @@
         "direct_video_playback_spot_checked": true,
         "independently_reproduced": false
       },
-      "number": 30
+      "number": 30,
+      "github_video_url": "https://github.com/user-attachments/assets/5acbaae6-8a88-44ba-86da-686b616097c4",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102445309855141889/vid/avc1/1920x1080/Y-M_cyVq7uOxGr0H.mp4?tag=29",
+        "filesize_bytes": 8717705,
+        "source_filesize_bytes": 20503421,
+        "duration_seconds": 80.277,
+        "source_duration_seconds": 80.277333,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "c67d2f477649a016c0a4eab0b32b0231a8aebdb1ed34f5823af740ff094ae88d"
+      }
     },
     {
       "id": "2102515055116063144",
@@ -1345,7 +1881,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 31
+      "number": 31,
+      "github_video_url": "https://github.com/user-attachments/assets/676888c5-bb90-49cb-b7a0-c8b568a71dfb",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29",
+        "filesize_bytes": 4459026,
+        "source_filesize_bytes": 4459026,
+        "duration_seconds": 18.8,
+        "source_duration_seconds": 18.8,
+        "width": 1920,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "9699b7fb695fb7797d5a4da3227433fc44709871c7143742f37bcec660fa5340"
+      }
     },
     {
       "id": "2102457111787745405",
@@ -1386,7 +1939,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 32
+      "number": 32,
+      "github_video_url": "https://github.com/user-attachments/assets/32b24445-bc37-4e08-b81e-8b222441562e",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14",
+        "filesize_bytes": 2405499,
+        "source_filesize_bytes": 2405499,
+        "duration_seconds": 13.606893,
+        "source_duration_seconds": 13.606893,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "c314c14b219e08d8be4c4b93f6eb21e51dd8681a302f32df6822e6519199e3d8"
+      }
     },
     {
       "id": "2102573127192727704",
@@ -1427,7 +1998,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 33
+      "number": 33,
+      "github_video_url": "https://github.com/user-attachments/assets/6d5bca54-2fc9-48ec-9439-1508be654c08",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102573043285737472/vid/avc1/2378x1514/dNeotSwb3xZKAAZg.mp4?tag=29",
+        "filesize_bytes": 8627343,
+        "source_filesize_bytes": 14515656,
+        "duration_seconds": 21.6,
+        "source_duration_seconds": 21.6,
+        "width": 960,
+        "height": 610,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "b033bdb99b3f54a06558a4122abc41973aa44f6e065023431ee35c58991b57a9"
+      }
     },
     {
       "id": "2102679018206052828",
@@ -1468,7 +2056,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 34
+      "number": 34,
+      "github_video_url": "https://github.com/user-attachments/assets/5c5b4065-95d9-4f61-874e-acab20d73b9d",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102678548880265216/vid/avc1/1920x804/gRlOqBsygyWwuCXb.mp4?tag=29",
+        "filesize_bytes": 6906927,
+        "source_filesize_bytes": 6906927,
+        "duration_seconds": 16.0,
+        "source_duration_seconds": 16.0,
+        "width": 1920,
+        "height": 804,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "2d06468ad3c83197274be6363907357ecd0ed4b8a9f89cda2dfaa8ae3b9acbca"
+      }
     },
     {
       "id": "2102449278283313303",
@@ -1510,7 +2115,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 35
+      "number": 35,
+      "github_video_url": "https://github.com/user-attachments/assets/ccaac7ad-2269-40cf-8aa6-f92a06ed78f2",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29",
+        "filesize_bytes": 8652602,
+        "source_filesize_bytes": 11710987,
+        "duration_seconds": 28.96,
+        "source_duration_seconds": 28.96,
+        "width": 960,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "cf730faddaf8286e785f72679076160f54a15bfa7210cd3318d558907a32ef19"
+      }
     },
     {
       "id": "2102453658889953717",
@@ -1552,7 +2175,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 36
+      "number": 36,
+      "github_video_url": "https://github.com/user-attachments/assets/f5ebffdb-7cd6-4e04-896b-bb6b4ca6fb67",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29",
+        "filesize_bytes": 5187463,
+        "source_filesize_bytes": 5187463,
+        "duration_seconds": 21.077333,
+        "source_duration_seconds": 21.077333,
+        "width": 1080,
+        "height": 1920,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "f41e364c0d58ab5e0e7db0dfea7175e8ef0c8815b84ce73fe8accd778c18b293"
+      }
     },
     {
       "id": "2102514581684052169",
@@ -1597,7 +2238,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 37
+      "number": 37,
+      "github_video_url": "https://github.com/user-attachments/assets/13fde54d-e7b2-4393-b519-42dc5825dd22",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14",
+        "filesize_bytes": 8746696,
+        "source_filesize_bytes": 32696031,
+        "duration_seconds": 156.629,
+        "source_duration_seconds": 156.629333,
+        "width": 720,
+        "height": 404,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "15c0e7b885598a1aae10233af4d572f9e938a35622c67f1d3e84872fdb11ef8d"
+      }
     },
     {
       "id": "2102801274173587569",
@@ -1644,7 +2303,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 38
+      "number": 38,
+      "github_video_url": "https://github.com/user-attachments/assets/e3b65a8a-6af3-4a0a-8d62-5e9dc0ce1794",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102799458031534086/vid/avc1/1920x1080/HM5EiroYW1MYwYj9.mp4?tag=29",
+        "filesize_bytes": 8795728,
+        "source_filesize_bytes": 123967673,
+        "duration_seconds": 141.568,
+        "source_duration_seconds": 141.568,
+        "width": 720,
+        "height": 404,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "b10d170143273a9386dbb4aae2189a0690b06635fd22c1edfb2076ce166dcb48"
+      }
     },
     {
       "id": "2103304514329854102",
@@ -1685,7 +2362,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 39
+      "number": 39,
+      "github_video_url": "https://github.com/user-attachments/assets/aa4ac9cb-8868-4c98-806e-679a78b05167",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103304202617520128/vid/avc1/854x480/XAtyYiDr1QYeUZPu.mp4?tag=29",
+        "filesize_bytes": 8856765,
+        "source_filesize_bytes": 13757699,
+        "duration_seconds": 315.434,
+        "source_duration_seconds": 315.434667,
+        "width": 478,
+        "height": 268,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "de3cc55b41cb6fdb14b58070b390b3a27e1c27277a1faaa058cf954c5c4578d3"
+      }
     },
     {
       "id": "2102984873351037161",
@@ -1726,7 +2421,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 40
+      "number": 40,
+      "github_video_url": "https://github.com/user-attachments/assets/0d69cbad-283b-4645-911e-24f1e4d928eb",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102984006224728064/vid/avc1/1920x1080/FK0zBJctbjOBHkIj.mp4?tag=29",
+        "filesize_bytes": 8623440,
+        "source_filesize_bytes": 10795568,
+        "duration_seconds": 17.984,
+        "source_duration_seconds": 17.984,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "e968425f654e93b2de553513c624bab5ed992185f815650e847e81a6cf1a7e1b"
+      }
     },
     {
       "id": "2102471841046786153",
@@ -1769,7 +2482,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 41
+      "number": 41,
+      "github_video_url": "https://github.com/user-attachments/assets/b99f80f5-ea56-416d-a576-fcff82e86637",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29",
+        "filesize_bytes": 8292654,
+        "source_filesize_bytes": 13848908,
+        "duration_seconds": 46.347007,
+        "source_duration_seconds": 46.347029,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "09623959387c60841cb2bdddfb731ce6852d27a434243f3758018a4ca16ed8db"
+      }
     },
     {
       "id": "2102450239923720440",
@@ -1814,7 +2545,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 42
+      "number": 42,
+      "github_video_url": "https://github.com/user-attachments/assets/9c7562a1-3943-4dbd-8396-e19155d7ed23",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29",
+        "filesize_bytes": 5568014,
+        "source_filesize_bytes": 5568014,
+        "duration_seconds": 19.797333,
+        "source_duration_seconds": 19.797333,
+        "width": 1920,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "3ccecb49ce1976c629f4132724ae57f51d1f06ac647444e0207ba20643054593"
+      }
     },
     {
       "id": "2102641562824135022",
@@ -1855,7 +2604,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 43
+      "number": 43,
+      "github_video_url": "https://github.com/user-attachments/assets/6993d490-c2d8-494b-aa5b-09a759908bdc",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102641511280377856/vid/avc1/1080x1080/Unywe4xeukLn9J5j.mp4?tag=29",
+        "filesize_bytes": 6415992,
+        "source_filesize_bytes": 6415992,
+        "duration_seconds": 25.263311,
+        "source_duration_seconds": 25.263311,
+        "width": 1080,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "06fe0dfbf3fee73cb032deac0e7ee1d9f0cb660838594eb246d2802bd36a225d"
+      }
     },
     {
       "id": "2102623690152419633",
@@ -1896,7 +2663,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 44
+      "number": 44,
+      "github_video_url": "https://github.com/user-attachments/assets/384e51d1-0ed2-4b06-af4f-a68279b7b989",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102623640491786240/vid/avc1/1080x1080/zSaFfY2dJZ4kLXGf.mp4?tag=29",
+        "filesize_bytes": 8427050,
+        "source_filesize_bytes": 14640954,
+        "duration_seconds": 29.651995,
+        "source_duration_seconds": 29.651882,
+        "width": 960,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "f80973eae6d9c10de96d2d7e49a7607bb826893a4d6908849cfac5b7ef1cfa83"
+      }
     },
     {
       "id": "2102913101926731879",
@@ -1940,7 +2725,25 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 45
+      "number": 45,
+      "github_video_url": "https://github.com/user-attachments/assets/94c69f64-dc4f-4897-a34c-85dca9675790",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102912880102559744/vid/avc1/1220x1080/O2CJrxI9ZVynJOjP.mp4?tag=29",
+        "filesize_bytes": 5300383,
+        "source_filesize_bytes": 5300383,
+        "duration_seconds": 20.117333,
+        "source_duration_seconds": 20.117333,
+        "width": 1220,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "c70d9bb621a5f41e395e3a3a763bca3363b52eb79ef5deeee7e5483b737551ad"
+      }
     },
     {
       "id": "2102536138884092185",
@@ -1984,7 +2787,24 @@
         "direct_video_playback_spot_checked": false,
         "independently_reproduced": false
       },
-      "number": 46
+      "number": 46,
+      "github_video_url": "https://github.com/user-attachments/assets/07554def-a05f-466d-bd2a-50bfa633eb0e",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29",
+        "filesize_bytes": 8696020,
+        "source_filesize_bytes": 10430147,
+        "duration_seconds": 20.0,
+        "source_duration_seconds": 20.0,
+        "width": 810,
+        "height": 960,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "df574901f3940149b98e69f2709905f807368fb3b933388652d51e836e136a7a"
+      }
     }
   ]
 }
