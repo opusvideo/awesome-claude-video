@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "default_language": "en",
   "languages": [
     "en",
@@ -117,7 +117,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "de4294dfea47862963cb7eda4d9fed99fd076f7ccb2c986cdc08b9be60e88fd9"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/deedydas/status/2102787937482252537",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Ask for a modern, slick, punchy launch video for an inference startup.",
+          "description_zh": "要求为一家推理服务创业公司制作现代、精致且节奏鲜明的发布视频。",
+          "evidence_url": "https://api.fxtwitter.com/deedydas/status/2102787937482252537"
+        }
+      ]
     },
     {
       "id": "2102477340920152162",
@@ -173,7 +184,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "a0de9f91ce6daf5b1d8ce6aa99f6be4967f346b4ceaf68c0e5101b3534e54756"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/trq212/status/2102477340920152162",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Iterate on and critique several website redesigns, then turn those variations into a trailer.",
+          "description_zh": "先迭代和评审多个网站改版方案，再把这些方案汇成预告片。",
+          "evidence_url": "https://api.fxtwitter.com/trq212/status/2102477340920152162"
+        }
+      ]
     },
     {
       "id": "2102441708395041170",
@@ -232,7 +254,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "cdb150ad7e829136c39f93e08229ed65ea3ef15cb811419d82586f8bdfa2c4ab"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/Miguel07Code/status/2102441708395041170",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Create the product launch video with Opus 5.5 and HyperFrames.",
+          "description_zh": "使用 Opus 5.5 和 HyperFrames 制作产品发布视频。",
+          "evidence_url": "https://api.fxtwitter.com/Miguel07Code/status/2102441708395041170"
+        }
+      ]
     },
     {
       "id": "2102636308707287201",
@@ -292,7 +325,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "eff5bda09a61de27162c3b31daef980b019acacc7a8cdd593d1d73b82edb3e4f"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/seiiiiiiiiiiru/status/2102636308707287201",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Have Claude operate Higgsfield and After Effects, keeping the result editable in After Effects.",
+          "description_zh": "让 Claude 操作 Higgsfield 与 After Effects，成片仍可在 After Effects 中继续修改。",
+          "evidence_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2102636308707287201"
+        }
+      ]
     },
     {
       "id": "2103227982592831846",
@@ -356,7 +400,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "2a3928a7efaf157beb9d3f8aeb768987d469827cc5a6e1745b8b6daab7c916ff"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/seiiiiiiiiiiru/status/2103227982592831846",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Generate narration with Gemini 3.8 Flash TTS, then have Claude assemble matching visuals, music and effects in After Effects.",
+          "description_zh": "用 Gemini 3.8 Flash TTS 生成旁白，再让 Claude 在 After Effects 中编排匹配的画面、音乐和音效。",
+          "evidence_url": "https://api.fxtwitter.com/seiiiiiiiiiiru/status/2103227982592831846"
+        }
+      ]
     },
     {
       "id": "2102766871007436993",
@@ -419,7 +474,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "b989c10cbfe1cf3763d71e8a5fec7cabfed35a41a345993f8ec54b25043758e6"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/ystknsh/status/2102766871007436993",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Use MulmoCast for video production, Opus for script and animation, Gemini for images and voice, and ElevenLabs for music.",
+          "description_zh": "用 MulmoCast 制作视频、Opus 编写脚本和动画、Gemini 生成图片与语音、ElevenLabs 生成音乐。",
+          "evidence_url": "https://api.fxtwitter.com/ystknsh/status/2102766871007436993"
+        }
+      ]
     },
     {
       "id": "2103315922098470926",
@@ -476,7 +542,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "019e1bf7bbc11236d517fac09deeb0aca164a55f29988e9d5f939fb00d04dbd4"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/stephanlivera/status/2103315922098470926",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Ask for a dynamic 15-second motion-design showreel and give the model creative freedom.",
+          "description_zh": "要求制作一支 15 秒的动态设计作品集短片，并让模型充分发挥。",
+          "evidence_url": "https://api.fxtwitter.com/stephanlivera/status/2103315922098470926"
+        }
+      ]
     },
     {
       "id": "2103273003555402193",
@@ -538,7 +615,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "197e843ef6c7e2271d04cdc79defb45eaebe832e2db7fa8170e141b06fb4cd3c"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/twoclipping/status/2103273003555402193",
+          "label_en": "Prompt & rendering workflow",
+          "label_zh": "提示词与渲染方式",
+          "description_en": "Use the full template for a beat-synced UI morph loop rendered from a single HTML scene with Playwright and FFmpeg.",
+          "description_zh": "使用原帖完整模板，让一个 HTML 场景中的 UI 按节拍连续变形，再用 Playwright 与 FFmpeg 渲染。",
+          "evidence_url": "https://api.fxtwitter.com/twoclipping/status/2103273003555402193"
+        }
+      ]
     },
     {
       "id": "2102591147927654847",
@@ -594,7 +682,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "4a8db143e1bbf8d257d4b0c3fb73b0b54c84d2f0932bd1cd2645431ff1dbe306"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/RyanSael/status/2102591147927654847",
+          "label_en": "Creative brief",
+          "label_zh": "创作要求",
+          "description_en": "Ask Opus to explain camera focus by building an interactive lens lab.",
+          "description_zh": "让 Opus 通过一个可交互的镜头实验室解释相机对焦。",
+          "evidence_url": "https://api.fxtwitter.com/RyanSael/status/2102591147927654847"
+        }
+      ]
     },
     {
       "id": "2103141339651350646",
@@ -651,7 +750,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "04dac7f439ff56c6f3b2dc735f42ddfb17538545f2d084c3e8fac446c5b987d0"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/deedydas/status/2103142971646652607",
+          "label_en": "Workflow in author reply",
+          "label_zh": "作者评论中的实现方式",
+          "description_en": "Claude chose Manim for visuals, Kokoro-82m for narration and FFmpeg for assembly; the creator used chat without connectors.",
+          "description_zh": "Claude 自行选择 Manim 制作画面、Kokoro-82m 生成旁白、FFmpeg 合成视频；作者在聊天中完成，未使用连接器。",
+          "evidence_url": "https://api.fxtwitter.com/deedydas/status/2103142971646652607"
+        }
+      ]
     },
     {
       "id": "2102844654169575547",
@@ -717,7 +827,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "253eccbfa5b7e37d990ac2ddb181d5ca4d080d6f6b00d4917b33421febaf4298"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/kimmonismus/status/2102844654169575547",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Build with React/TypeScript and Remotion, draw visuals in SVG and Canvas, and combine open-source TTS with a Python-synthesized score.",
+          "description_zh": "使用 React/TypeScript 和 Remotion 制作，以 SVG、Canvas 绘图，并加入开源 TTS 旁白与 Python 合成配乐。",
+          "evidence_url": "https://api.fxtwitter.com/kimmonismus/status/2102844654169575547"
+        }
+      ]
     },
     {
       "id": "2102583898865873225",
@@ -774,7 +895,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "52fccf96ae136f3b4bd0d7beebb67e83d826fffb2a3cc9c00d1a17a02dbda0c6"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/akokoi1/status/2102584165220962502",
+          "label_en": "Prompt in author reply",
+          "label_zh": "作者评论中的提示词",
+          "description_en": "Ask for a lively line-art recap of 5,000 years of Chinese history with suitable music.",
+          "description_zh": "要求用轻松有趣的线稿动画快速回顾中华五千年历史，并加入合适的音乐。",
+          "evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102584165220962502"
+        }
+      ]
     },
     {
       "id": "2102606609574941028",
@@ -835,7 +967,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "c0d5659aede6d5b0cfbc8338a92ff64a2896bd05dc53f877dccb8af1f8481a88"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/akokoi1/status/2102606609574941028",
+          "label_en": "Prompt & TTS setup",
+          "label_zh": "提示词与 TTS 配置",
+          "description_en": "Provide TTS documentation and request an engaging line-art lesson on atmospheric circulation with bilingual subtitles and narration.",
+          "description_zh": "提供 TTS 接口文档，要求制作讲解大气环流的线稿动画，并加入中英字幕与语音解说。",
+          "evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102606609574941028"
+        }
+      ]
     },
     {
       "id": "2102853258582880547",
@@ -894,7 +1037,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "f73f0ab34e4ec8abd77de98241ae41305d6f3699910f918f7ff688a548f105ec"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/Ror_Fly/status/2102853258582880547",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Turn one reference image into a 30-second cocktail-recipe animation in JavaScript or HTML, showing ingredients and measurements as they are added.",
+          "description_zh": "根据一张参考图，用 JavaScript 或 HTML 制作 30 秒鸡尾酒配方动画，逐步展示加入的原料和用量。",
+          "evidence_url": "https://api.fxtwitter.com/Ror_Fly/status/2102853258582880547"
+        }
+      ]
     },
     {
       "id": "2102722719502704941",
@@ -955,7 +1109,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "767d4ca39609147efb4ecdc59c28ebc13edbb1186c3002bad25f2dcc4376bcab"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/masahirochaen/status/2102722719502704941",
+          "label_en": "Workflow",
+          "label_zh": "实现方式",
+          "description_en": "Give Claude Code a reference post and brief instructions, draw 1,395 Canvas frames, and export the animation to MP4.",
+          "description_zh": "给 Claude Code 一条参考推文和简短指令，用 Canvas 绘制 1,395 帧，再导出为 MP4。",
+          "evidence_url": "https://api.fxtwitter.com/masahirochaen/status/2102722719502704941"
+        }
+      ]
     },
     {
       "id": "2103116235009347650",
@@ -1022,7 +1187,27 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "275a0d9bcdba6572e9cea747e070af2824e16971c0b72acb4109a8eda914c416"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/WinterArc2125/status/2103116689944502720",
+          "label_en": "Prompt in author reply",
+          "label_zh": "作者评论中的提示词",
+          "description_en": "Request a cinematic, historically researched Austerlitz film rendered entirely in code, using the attached paintings as inspiration.",
+          "description_zh": "要求制作一部经过史料研究、完全由代码渲染的奥斯特里茨战役电影，并以附图画作为视觉灵感。",
+          "evidence_url": "https://api.fxtwitter.com/WinterArc2125/status/2103116689944502720"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://github.com/WinterArc21/Battle-of-Austerlitz-Film",
+          "label_en": "Source code & build guide",
+          "label_zh": "源码与制作指南",
+          "description_en": "The repository includes a WebGL renderer, terrain data, Kokoro narration, synthesized sound and a Chromium-to-FFmpeg rendering pipeline.",
+          "description_zh": "仓库包含 WebGL 渲染器、地形数据、Kokoro 旁白、合成声音，以及 Chromium 到 FFmpeg 的渲染流程。",
+          "evidence_url": "https://github.com/WinterArc21/Battle-of-Austerlitz-Film"
+        }
+      ]
     },
     {
       "id": "2102680453912449223",
@@ -1079,7 +1264,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "565e2cb63cf0d5b1cff2231599b98454b1d3c59062d47599b895eb486bf0c266"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/akokoi1/status/2102726335387115569",
+          "label_en": "Prompt guidance in author reply",
+          "label_zh": "作者评论中的提示词用法",
+          "description_en": "Reuse the atmospheric-circulation animation prompt, replacing its topic with the specific physics problem.",
+          "description_zh": "复用大气环流动画的提示词，把其中的知识点替换为具体物理题目。",
+          "evidence_url": "https://api.fxtwitter.com/akokoi1/status/2102726335387115569"
+        }
+      ]
     },
     {
       "id": "2102827887732932956",
@@ -1139,7 +1335,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "e84d154d562eca08468813d2484eacd5f7454762f1d04785b6b3b59748dbc36c"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/AxtonLiu/status/2102827887732932956",
+          "label_en": "Prompt & workflow",
+          "label_zh": "提示词与实现方式",
+          "description_en": "Keep the original voice, subtitles and duration; replace the main picture with line-art B-roll and move the speaker into a circular corner overlay.",
+          "description_zh": "保留原声、字幕和时长，把主画面改成线稿 B-roll，并将说话者缩到右下角圆形画中画。",
+          "evidence_url": "https://api.fxtwitter.com/AxtonLiu/status/2102827887732932956"
+        }
+      ]
     },
     {
       "id": "2102437977435893771",
@@ -1198,7 +1405,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "74d105dcf42703653ea361cb5eeba9a430592e196f4aabc3b1100d6b5b23aea9"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102476258948927543",
@@ -1257,7 +1465,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "5d7eaa2266da73c08a11b41cca9c35d10b994e0f1fc08e6c2f5eec977e630fe3"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/majidmanzarpour/status/2102476499387383834",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Create a self-contained pixel-art wizard animation in HTML with vanilla JavaScript and Canvas 2D.",
+          "description_zh": "用原生 JavaScript 和 Canvas 2D，在独立 HTML 文件中创建像素风巫师动画。",
+          "evidence_url": "https://api.fxtwitter.com/majidmanzarpour/status/2102476499387383834"
+        }
+      ]
     },
     {
       "id": "2102512879258009818",
@@ -1318,7 +1537,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "a1c49d6f702f27459c0e350fc52c40b33c4481acb6c3eacc75384f30e77af1ac"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102495989194236158",
@@ -1376,7 +1596,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "c59b0c25684360ee25bf0ae8c2fabdbf08afad897c7812b398eded470409b461"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/shfred0/status/2102495989194236158",
+          "label_en": "Creative brief",
+          "label_zh": "创作指令",
+          "description_en": "Animate Claude’s life from day zero to the present, drawing each frame as JavaScript brush strokes.",
+          "description_zh": "让 Claude 从诞生开始讲述自己的一生，以 JavaScript 笔触逐帧绘制动画。",
+          "evidence_url": "https://api.fxtwitter.com/shfred0/status/2102495989194236158"
+        }
+      ]
     },
     {
       "id": "2102478640428773861",
@@ -1435,7 +1666,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "b97ed20909912afa5a2a180ed36ee5dc194f46ee25cd14f425e0bd5943b578a6"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102531681450119426",
@@ -1497,7 +1729,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "db6e5b0e068037e4214d7cfaf114047eae9c50436e99f36ef866c77666caa21b"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/Voxyz_ai/status/2102531681450119426",
+          "label_en": "Implementation",
+          "label_zh": "实现方式",
+          "description_en": "Draw in JavaScript inside one HTML file, render with Hyperframes, synthesize music in Python, then review and polish each second.",
+          "description_zh": "在一个 HTML 文件中用 JavaScript 绘图，通过 Hyperframes 渲染、Python 合成音乐，再逐秒检查和打磨。",
+          "evidence_url": "https://api.fxtwitter.com/Voxyz_ai/status/2102531681450119426"
+        }
+      ]
     },
     {
       "id": "2102493303388475855",
@@ -1554,7 +1797,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "9507c3aa4edeb1f22f89defdcec017e7563227e198a7afa94649e4a4193ded86"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/cherry_mx_reds/status/2102493305992880314",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Provide a character screenshot and request a playful thirty-second Oktoberfest animation, using local audio samples instead of synthesized sound.",
+          "description_zh": "提供角色截图，要求制作有趣可爱的三十秒啤酒节动画，并使用本地音频采样。",
+          "evidence_url": "https://api.fxtwitter.com/cherry_mx_reds/status/2102493305992880314"
+        }
+      ]
     },
     {
       "id": "2102498589259821559",
@@ -1611,7 +1865,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "deb0884eb52bb859437a8db8ddd5b0447f5468b64d9ff47d8499321bc783c71a"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102699703309898026",
@@ -1668,7 +1923,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "cb646a8050d61903d896cb008871430afe7bf8008f1db5fd3cdc55ceea5e33e6"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102436464323661880",
@@ -1725,7 +1981,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "2d3441b7b8fbad3c7ad62e60008e0f4ae821a987ccc6098c43c162d0e61dfe2f"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102463453176979794",
@@ -1785,7 +2042,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "011d12c9f7abf20d8c8be0531d906e8429583b9d71cfe6cc0108114871e696ab"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/edwinarbus/status/2102463454485610511",
+          "label_en": "Implementation",
+          "label_zh": "实现方式",
+          "description_en": "Generate the Three.js visuals and audio procedurally in one HTML file, then refine the result through several verification loops.",
+          "description_zh": "在一个 HTML 文件中程序化生成 Three.js 画面与声音，再通过多轮验证完善效果。",
+          "evidence_url": "https://api.fxtwitter.com/edwinarbus/status/2102463454485610511"
+        }
+      ]
     },
     {
       "id": "2102445641205248145",
@@ -1842,7 +2110,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "c67d2f477649a016c0a4eab0b32b0231a8aebdb1ed34f5823af740ff094ae88d"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102515055116063144",
@@ -1898,7 +2167,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "9699b7fb695fb7797d5a4da3227433fc44709871c7143742f37bcec660fa5340"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/riku720720/status/2102515058010132554",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Animate an orange pixel character dodging meteors and lasers on a cosmic rainbow road using JavaScript and Canvas 2D.",
+          "description_zh": "用 JavaScript 与 Canvas 2D 制作橙色像素角色在宇宙彩虹路上躲避陨石和激光的动画。",
+          "evidence_url": "https://api.fxtwitter.com/riku720720/status/2102515058010132554"
+        }
+      ]
     },
     {
       "id": "2102457111787745405",
@@ -1957,7 +2237,8 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "c314c14b219e08d8be4c4b93f6eb21e51dd8681a302f32df6822e6519199e3d8"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102573127192727704",
@@ -2015,7 +2296,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "b033bdb99b3f54a06558a4122abc41973aa44f6e065023431ee35c58991b57a9"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/ann_nnng/status/2102573127192727704",
+          "label_en": "Creative brief",
+          "label_zh": "创作指令",
+          "description_en": "Turn New Zealand travel photos into acrylic-style paintings drawn in JavaScript.",
+          "description_zh": "将新西兰旅行照片转成丙烯画风格，再用 JavaScript 绘制。",
+          "evidence_url": "https://api.fxtwitter.com/ann_nnng/status/2102573127192727704"
+        }
+      ]
     },
     {
       "id": "2102679018206052828",
@@ -2073,7 +2365,8 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "2d06468ad3c83197274be6363907357ecd0ed4b8a9f89cda2dfaa8ae3b9acbca"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102449278283313303",
@@ -2133,7 +2426,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "cf730faddaf8286e785f72679076160f54a15bfa7210cd3318d558907a32ef19"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102453658889953717",
@@ -2193,7 +2487,8 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "f41e364c0d58ab5e0e7db0dfea7175e8ef0c8815b84ce73fe8accd778c18b293"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102514581684052169",
@@ -2256,7 +2551,27 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "15c0e7b885598a1aae10233af4d572f9e938a35622c67f1d3e84872fdb11ef8d"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://github.com/JohnHeibel/PDoomVideo#how-it-was-made",
+          "label_en": "Implementation & source",
+          "label_zh": "实现方式与源码",
+          "description_en": "Use p5.js and p5.brush for painted animation, render frames in headless Chrome, and encode the video with FFmpeg.",
+          "description_zh": "用 p5.js 和 p5.brush 制作绘画动画，在无头 Chrome 中渲染帧，再通过 FFmpeg 合成视频。",
+          "evidence_url": "https://github.com/JohnHeibel/PDoomVideo"
+        },
+        {
+          "kind": "implementation",
+          "url": "https://github.com/JohnHeibel/PDoomVideo/blob/main/ANIMATION_GUIDE.md",
+          "label_en": "Animation guide",
+          "label_zh": "动画实现指南",
+          "description_en": "The model-written production guide explains chapter structure, deterministic rendering, painting helpers, motion design, and visual checks.",
+          "description_zh": "模型编写的制作指南包含章节结构、确定性渲染、绘画函数、运动设计和画面检查方法。",
+          "evidence_url": "https://github.com/JohnHeibel/PDoomVideo/blob/main/ANIMATION_GUIDE.md"
+        }
+      ]
     },
     {
       "id": "2102801274173587569",
@@ -2321,7 +2636,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "b10d170143273a9386dbb4aae2189a0690b06635fd22c1edfb2076ce166dcb48"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/donaldjewkes/status/2102801469976248500",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Remix a reference music video through character design, generated scene assets, JavaScript overlays, synchronized lyrics, and repeated visual review.",
+          "description_zh": "从参考音乐视频出发，设计角色和场景素材，叠加 JavaScript 动画与同步歌词，并反复检查画面。",
+          "evidence_url": "https://api.fxtwitter.com/donaldjewkes/status/2102801469976248500"
+        }
+      ]
     },
     {
       "id": "2103304514329854102",
@@ -2380,7 +2706,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "de3cc55b41cb6fdb14b58070b390b3a27e1c27277a1faaa058cf954c5c4578d3"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/gavinpurcell/status/2103304514329854102",
+          "label_en": "Prompt & workflow",
+          "label_zh": "提示词与流程",
+          "description_en": "Give Claude access to Runway MCP and request a polished documentary explaining superintelligence to a general audience.",
+          "description_zh": "为 Claude 接入 Runway MCP，要求制作一部面向普通观众、讲解超级智能的精致纪录片。",
+          "evidence_url": "https://api.fxtwitter.com/gavinpurcell/status/2103304514329854102"
+        }
+      ]
     },
     {
       "id": "2102984873351037161",
@@ -2439,7 +2776,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "e968425f654e93b2de553513c624bab5ed992185f815650e847e81a6cf1a7e1b"
-      }
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://github.com/browser-use/video-use#how-it-works",
+          "label_en": "Implementation (video-use)",
+          "label_zh": "实现方式（video-use）",
+          "description_en": "Use video-use to compare takes, select a clean delivery, edit, grade, caption, and assemble the launch video.",
+          "description_zh": "用 video-use 对比不同口播素材，挑选合适片段，再完成剪辑、调色、字幕和发布视频组装。",
+          "evidence_url": "https://github.com/browser-use/video-use"
+        }
+      ]
     },
     {
       "id": "2102471841046786153",
@@ -2500,7 +2848,18 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "09623959387c60841cb2bdddfb731ce6852d27a434243f3758018a4ca16ed8db"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/Stefan_3D_AI/status/2102471841046786153",
+          "label_en": "Prompt brief",
+          "label_zh": "提示词要点",
+          "description_en": "Create a fully procedural Blender scene, render a ten-second shot, and record the build process as a timelapse.",
+          "description_zh": "在 Blender 中以程序化方式创建场景，渲染十秒镜头，并记录搭建过程的延时视频。",
+          "evidence_url": "https://api.fxtwitter.com/Stefan_3D_AI/status/2102471841046786153"
+        }
+      ]
     },
     {
       "id": "2102450239923720440",
@@ -2563,7 +2922,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "3ccecb49ce1976c629f4132724ae57f51d1f06ac647444e0207ba20643054593"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/vib3coded/status/2102450842070569099",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Create an interactive prehistoric island in one HTML file using Three.js and WebGL, with articulated animals and an underwater cross-section.",
+          "description_zh": "用 Three.js 和 WebGL 在一个 HTML 文件中构建可交互史前岛屿，包含关节动画与水下剖面。",
+          "evidence_url": "https://api.fxtwitter.com/vib3coded/status/2102450842070569099"
+        }
+      ]
     },
     {
       "id": "2102641562824135022",
@@ -2622,7 +2992,8 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "06fe0dfbf3fee73cb032deac0e7ee1d9f0cb660838594eb246d2802bd36a225d"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102623690152419633",
@@ -2681,7 +3052,8 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "f80973eae6d9c10de96d2d7e49a7607bb826893a4d6908849cfac5b7ef1cfa83"
-      }
+      },
+      "resources": []
     },
     {
       "id": "2102913101926731879",
@@ -2743,7 +3115,18 @@
         "faststart": true,
         "reencoded": false,
         "sha256": "c70d9bb621a5f41e395e3a3a763bca3363b52eb79ef5deeee7e5483b737551ad"
-      }
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/higgsfield_ai/status/2102913101926731879",
+          "label_en": "Prompt brief",
+          "label_zh": "提示词要点",
+          "description_en": "Use the supplied brand assets to make a twenty-second product video in After Effects, synchronized to music.",
+          "description_zh": "使用给定品牌素材，在 After Effects 中制作与音乐同步的二十秒产品视频。",
+          "evidence_url": "https://api.fxtwitter.com/higgsfield_ai/status/2102913101926731879"
+        }
+      ]
     },
     {
       "id": "2102536138884092185",
@@ -2804,7 +3187,110 @@
         "faststart": true,
         "reencoded": true,
         "sha256": "df574901f3940149b98e69f2709905f807368fb3b933388652d51e836e136a7a"
-      }
+      },
+      "resources": []
     }
-  ]
+  ],
+  "hero": {
+    "rows": 2,
+    "columns": 4,
+    "items": [
+      {
+        "order": 1,
+        "id": "2102512879258009818",
+        "cover_path": "assets/covers/2102512879258009818.jpg",
+        "frame_seconds": 38.3,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Mars Rover",
+          "zh-CN": "火星探测器"
+        }
+      },
+      {
+        "order": 2,
+        "id": "2102591147927654847",
+        "cover_path": "assets/covers/2102591147927654847.jpg",
+        "frame_seconds": 10.88,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Lens Lab",
+          "zh-CN": "镜头实验室"
+        }
+      },
+      {
+        "order": 3,
+        "id": "2102457111787745405",
+        "cover_path": "assets/covers/2102457111787745405.jpg",
+        "frame_seconds": 4.6,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Painted Coast",
+          "zh-CN": "会动的海岸"
+        }
+      },
+      {
+        "order": 4,
+        "id": "2103315922098470926",
+        "cover_path": "assets/covers/2103315922098470926.jpg",
+        "frame_seconds": 6.3,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Motion Design",
+          "zh-CN": "动态图形"
+        }
+      },
+      {
+        "order": 5,
+        "id": "2102515055116063144",
+        "cover_path": "assets/covers/2102515055116063144.jpg",
+        "frame_seconds": 15.4,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Pixel Adventure",
+          "zh-CN": "像素冒险"
+        }
+      },
+      {
+        "order": 6,
+        "id": "2102436464323661880",
+        "cover_path": "assets/covers/2102436464323661880.jpg",
+        "frame_seconds": 19.8,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Orbiting Worlds",
+          "zh-CN": "轨道世界"
+        }
+      },
+      {
+        "order": 7,
+        "id": "2102699703309898026",
+        "cover_path": "assets/covers/2102699703309898026.jpg",
+        "frame_seconds": 193.0,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Ink Animation",
+          "zh-CN": "水墨动画"
+        }
+      },
+      {
+        "order": 8,
+        "id": "2102766871007436993",
+        "cover_path": "assets/covers/2102766871007436993.jpg",
+        "frame_seconds": 10.2,
+        "width": 800,
+        "height": 450,
+        "caption": {
+          "en": "Fitness Ad",
+          "zh-CN": "运动广告"
+        }
+      }
+    ]
+  }
 }
