@@ -5,7 +5,7 @@
     "en",
     "zh-CN"
   ],
-  "curated_on": "2026-09-25",
+  "curated_on": "2026-09-28",
   "inclusion_rule": "Normally, original X video posts with reported views strictly greater than 10,000 at the recorded check time. Explicit maintainer selections may be included with a curation_exception and the actual view snapshot.",
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
   "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
@@ -3744,6 +3744,281 @@
           "evidence_url": "https://x.com/pradeepXkapoor/status/2103109958904754243"
         }
       ]
+    },
+    {
+      "id": "2102774951434695083",
+      "category": "stories",
+      "title": {
+        "en": "AI Dungeon Story as a Pop-Up Book",
+        "zh-CN": "把 AI Dungeon 故事变成立体书动画"
+      },
+      "description": {
+        "en": "A one-shot animation of an AI Dungeon story, staged as an illustrated book whose scenes rise from the pages.",
+        "zh-CN": "一支将 AI Dungeon 故事一次生成成动画的作品，以插画书为舞台，让场景从书页中立体展开。"
+      },
+      "creator": {
+        "name": "Nick Walton",
+        "handle": "nickwalton00"
+      },
+      "original_post_url": "https://x.com/nickwalton00/status/2102774951434695083",
+      "demo_url": "https://x.com/nickwalton00/status/2102774951434695083/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2102774122338246656/vid/avc1/1920x1080/NI8NAGKjuGt3Y5aH.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102774122338246656/img/6yw2v0ga5af0EdUT.jpg",
+      "duration_seconds": 63.005,
+      "views": 45623,
+      "views_checked_at": "2026-09-28T12:57:09Z",
+      "views_source_url": "https://api.fxtwitter.com/nickwalton00/status/2102774951434695083",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/nickwalton00/status/2102774951434695083",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/nickwalton00/status/2102774951434695083&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/nickwalton00/status/2102774951434695083",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 54,
+      "github_video_url": "https://github.com/user-attachments/assets/95ac6b13-e5f5-4c3e-8abe-703c28d3c8e9",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2102774122338246656/vid/avc1/1280x720/yCZA41Pirxa1ohI1.mp4?tag=29",
+        "filesize_bytes": 4635930,
+        "source_filesize_bytes": 4635930,
+        "duration_seconds": 63.033333,
+        "source_duration_seconds": 63.033333,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "860bf1a3e7578fb60d3c36083512c6b26514001970570608d28b3fc8ec3f2f7c"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/nickwalton00/status/2102774951434695083",
+          "label_en": "Creative brief",
+          "label_zh": "创作摘要",
+          "description_en": "Animate an AI Dungeon story in one shot.",
+          "description_zh": "一次生成一支 AI Dungeon 故事动画。",
+          "evidence_url": "https://api.fxtwitter.com/nickwalton00/status/2102774951434695083"
+        }
+      ]
+    },
+    {
+      "id": "2103449416325890146",
+      "category": "motion",
+      "title": {
+        "en": "A Second 15-Second Motion Reel",
+        "zh-CN": "另一版 15 秒动态设计作品集"
+      },
+      "description": {
+        "en": "A distinct 15-second motion-design reel generated from the same public résumé-showreel prompt used by several creators.",
+        "zh-CN": "使用多位创作者公开分享的同一份履历作品集提示词，生成的一版独立 15 秒动态设计短片。"
+      },
+      "creator": {
+        "name": "Ajith",
+        "handle": "ajith_io"
+      },
+      "original_post_url": "https://x.com/ajith_io/status/2103449416325890146",
+      "demo_url": "https://x.com/ajith_io/status/2103449416325890146/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1920x1080/gLl6GZWastLVE2fr.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103449259869863936/img/xFjCDtYklW-hfg7m.jpg",
+      "duration_seconds": 15,
+      "views": 575173,
+      "views_checked_at": "2026-09-28T12:57:09Z",
+      "views_source_url": "https://api.fxtwitter.com/ajith_io/status/2103449416325890146",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": "https://x.com/ajith_io/status/2103449416325890146",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/ajith_io/status/2103449416325890146&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/ajith_io/status/2103449416325890146",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 55,
+      "github_video_url": "https://github.com/user-attachments/assets/54824928-3240-4c41-9f5c-a6043fa5c249",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103449259869863936/vid/avc1/1280x720/JPFTTGgTObPSPXKM.mp4?tag=29",
+        "filesize_bytes": 2295678,
+        "source_filesize_bytes": 2295678,
+        "duration_seconds": 15.061333,
+        "source_duration_seconds": 15.061333,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "e910d8014b9fde8a230d682b9f2819b103291be7b58a9cbcdae13097749f25c6"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/ajith_io/status/2103449416325890146",
+          "label_en": "Prompt",
+          "label_zh": "提示词",
+          "description_en": "Make a dynamic 15-second motion-graphics résumé showreel and go all out.",
+          "description_zh": "制作一支 15 秒的动态设计履历作品集短片，并充分发挥。",
+          "evidence_url": "https://api.fxtwitter.com/ajith_io/status/2103449416325890146"
+        }
+      ]
+    },
+    {
+      "id": "2103539410302038359",
+      "category": "art",
+      "title": {
+        "en": "Interactive Japanese Koi Garden",
+        "zh-CN": "可互动的日式锦鲤庭院"
+      },
+      "description": {
+        "en": "A single-file interactive Japanese garden with detailed water, koi that can be fed, and frogs that jump away when touched.",
+        "zh-CN": "一个单文件交互式日式庭院，包含细致水面、可投喂锦鲤，以及触碰后会跳开的青蛙。"
+      },
+      "creator": {
+        "name": "Sourany Phomhome",
+        "handle": "SouranyPhomhome"
+      },
+      "original_post_url": "https://x.com/SouranyPhomhome/status/2103539410302038359",
+      "demo_url": "https://x.com/SouranyPhomhome/status/2103539410302038359/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2103537432947814400/vid/avc1/3840x2160/nM_wPftMqfCztvEu.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103537432947814400/img/NBIfqT7I5-i37GFr.jpg",
+      "duration_seconds": 155.866,
+      "views": 67458,
+      "views_checked_at": "2026-09-28T12:57:09Z",
+      "views_source_url": "https://api.fxtwitter.com/SouranyPhomhome/status/2103539410302038359",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "HTML",
+        "Three.js"
+      ],
+      "prompt_or_brief_url": "https://x.com/SouranyPhomhome/status/2103601563428077906",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/SouranyPhomhome/status/2103539410302038359&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/SouranyPhomhome/status/2103539410302038359",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 56,
+      "github_video_url": "https://github.com/user-attachments/assets/e4525e9b-5aa6-46d4-8a58-6edc3fd8c0ca",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2103537432947814400/vid/avc1/480x270/xs5tDelGzSxN02S3.mp4?tag=29",
+        "filesize_bytes": 3499216,
+        "source_filesize_bytes": 3499216,
+        "duration_seconds": 156.066667,
+        "source_duration_seconds": 156.066667,
+        "width": 480,
+        "height": 270,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "3efa510e5699772c1b36562d2783360bb38fe740ac38ffec8307c59a194e29a3"
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/SouranyPhomhome/status/2103601563428077906",
+          "label_en": "Workflow and free prompt",
+          "label_zh": "流程与免费提示词",
+          "description_en": "The creator links a full workflow and free prompt, and reports three iterations: shapes first, detailed textures second, and interactions third.",
+          "description_zh": "作者分享完整流程和免费提示词，并说明共迭代三轮：先处理造型，再加入细致纹理，最后补上交互。",
+          "evidence_url": "https://x.com/SouranyPhomhome/status/2103856224467079300"
+        }
+      ]
+    },
+    {
+      "id": "2104392800892764552",
+      "category": "stories",
+      "title": {
+        "en": "A Reference-Driven Illustrated Short",
+        "zh-CN": "用参考视频生成的插画短片"
+      },
+      "description": {
+        "en": "An illustrated rainy-night short that the creator says was generated from a reference video with a single-sentence instruction.",
+        "zh-CN": "一支雨夜插画短片；作者称其依据参考视频，只用一句话指令生成。"
+      },
+      "creator": {
+        "name": "Andy L",
+        "handle": "AndyL5cc"
+      },
+      "original_post_url": "https://x.com/AndyL5cc/status/2104392800892764552",
+      "demo_url": "https://x.com/AndyL5cc/status/2104392800892764552/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2104392615873691648/vid/avc1/1920x1080/kglkSilcgrLXT0GY.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104392615873691648/img/G_d5UtTk4TDx75Hd.jpg",
+      "duration_seconds": 72,
+      "views": 17785,
+      "views_checked_at": "2026-09-28T12:57:09Z",
+      "views_source_url": "https://api.fxtwitter.com/AndyL5cc/status/2104392800892764552",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/AndyL5cc/status/2104392800892764552&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/AndyL5cc/status/2104392800892764552",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 57,
+      "github_video_url": "https://github.com/user-attachments/assets/2f74f0eb-c446-444d-83ee-d9ac2f61bc62",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2104392615873691648/vid/avc1/1280x720/0jyzggG5QRvy6F0V.mp4?tag=29",
+        "filesize_bytes": 9395787,
+        "source_filesize_bytes": 10861240,
+        "duration_seconds": 72.050998,
+        "source_duration_seconds": 72.051519,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "c01cd7386c1b69e177d65a42645001a29f9a66401cd48a770117599df422d9f0"
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://x.com/AndyL5cc/status/2104393662893601107",
+          "label_en": "Reference-video workflow",
+          "label_zh": "参考视频工作流",
+          "description_en": "The creator clarifies that the result was generated from a reference video with a one-sentence instruction.",
+          "description_zh": "作者补充说明，作品依据参考视频并使用一句话指令生成。",
+          "evidence_url": "https://x.com/AndyL5cc/status/2104393662893601107"
+        }
+      ]
     }
   ],
   "hero": {
@@ -3848,5 +4123,5 @@
       }
     ]
   },
-  "updated_on": "2026-09-27"
+  "updated_on": "2026-09-28"
 }

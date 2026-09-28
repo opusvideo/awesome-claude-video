@@ -145,6 +145,14 @@ https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655
 
 **提示词摘要:** 让 Claude Opus 5.5 制作一支 90 秒动态设计与声音工程演示，并原创钢琴配乐。
 
+### 另一版 15 秒动态设计作品集
+
+https://github.com/user-attachments/assets/54824928-3240-4c41-9f5c-a6043fa5c249
+
+[原帖](https://x.com/ajith_io/status/2103449416325890146)
+
+**提示词摘要:** 制作一支 15 秒的动态设计履历作品集短片，并充分发挥。
+
 <a id="education"></a>
 
 ## 科普教学与知识讲解
@@ -323,6 +331,22 @@ https://github.com/user-attachments/assets/0756acea-f8a7-41f0-bae4-a29f5cb4bb69
 
 [原帖](https://x.com/akokoi1/status/2102699703309898026)
 
+### 把 AI Dungeon 故事变成立体书动画
+
+https://github.com/user-attachments/assets/95ac6b13-e5f5-4c3e-8abe-703c28d3c8e9
+
+[原帖](https://x.com/nickwalton00/status/2102774951434695083)
+
+**创作摘要:** 一次生成一支 AI Dungeon 故事动画。
+
+### 用参考视频生成的插画短片
+
+https://github.com/user-attachments/assets/2f74f0eb-c446-444d-83ee-d9ac2f61bc62
+
+[原帖](https://x.com/AndyL5cc/status/2104392800892764552)
+
+**实现方式:** 作者称这支雨夜插画短片依据参考视频，只用一句话指令生成。
+
 <a id="art"></a>
 
 ## 艺术、三维场景与模拟
@@ -386,6 +410,14 @@ https://github.com/user-attachments/assets/ccaac7ad-2269-40cf-8aa6-f92a06ed78f2
 https://github.com/user-attachments/assets/f5ebffdb-7cd6-4e04-896b-bb6b4ca6fb67
 
 [原帖](https://x.com/higgsfield_ai/status/2102453658889953717)
+
+### 可互动的日式锦鲤庭院
+
+https://github.com/user-attachments/assets/e4525e9b-5aa6-46d4-8a58-6edc3fd8c0ca
+
+[原帖](https://x.com/SouranyPhomhome/status/2103539410302038359)
+
+[流程与免费提示词](https://x.com/SouranyPhomhome/status/2103601563428077906) — 作者说明共迭代三轮：先处理造型，再加入细致纹理，最后补上交互。
 
 <a id="production"></a>
 

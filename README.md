@@ -145,6 +145,14 @@ https://github.com/user-attachments/assets/763c801c-16db-44ec-b4fa-227613667655
 
 **Prompt brief:** Ask Claude Opus 5.5 for a 90-second motion-design and sound-engineering demo with an original piano score.
 
+### A Second 15-Second Motion Reel
+
+https://github.com/user-attachments/assets/54824928-3240-4c41-9f5c-a6043fa5c249
+
+[Original post](https://x.com/ajith_io/status/2103449416325890146)
+
+**Prompt brief:** Make a dynamic 15-second motion-graphics résumé showreel and go all out.
+
 <a id="education"></a>
 
 ## Education & explainers
@@ -323,6 +331,22 @@ https://github.com/user-attachments/assets/0756acea-f8a7-41f0-bae4-a29f5cb4bb69
 
 [Original post](https://x.com/akokoi1/status/2102699703309898026)
 
+### AI Dungeon Story as a Pop-Up Book
+
+https://github.com/user-attachments/assets/95ac6b13-e5f5-4c3e-8abe-703c28d3c8e9
+
+[Original post](https://x.com/nickwalton00/status/2102774951434695083)
+
+**Creative brief:** Animate an AI Dungeon story in one shot.
+
+### A Reference-Driven Illustrated Short
+
+https://github.com/user-attachments/assets/2f74f0eb-c446-444d-83ee-d9ac2f61bc62
+
+[Original post](https://x.com/AndyL5cc/status/2104392800892764552)
+
+**Workflow:** The creator says the illustrated rainy-night short was generated from a reference video with a one-sentence instruction.
+
 <a id="art"></a>
 
 ## Art, 3D worlds & simulations
@@ -386,6 +410,14 @@ https://github.com/user-attachments/assets/ccaac7ad-2269-40cf-8aa6-f92a06ed78f2
 https://github.com/user-attachments/assets/f5ebffdb-7cd6-4e04-896b-bb6b4ca6fb67
 
 [Original post](https://x.com/higgsfield_ai/status/2102453658889953717)
+
+### Interactive Japanese Koi Garden
+
+https://github.com/user-attachments/assets/e4525e9b-5aa6-46d4-8a58-6edc3fd8c0ca
+
+[Original post](https://x.com/SouranyPhomhome/status/2103539410302038359)
+
+[Workflow and free prompt](https://x.com/SouranyPhomhome/status/2103601563428077906) — The creator reports three iterations: shapes first, detailed textures second, and interactions third.
 
 <a id="production"></a>
 
