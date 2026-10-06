@@ -5,7 +5,7 @@
     "en",
     "zh-CN"
   ],
-  "curated_on": "2026-09-28",
+  "curated_on": "2026-10-06",
   "inclusion_rule": "Normally, original X video posts with reported views strictly greater than 10,000 at the recorded check time. Explicit maintainer selections may be included with a curation_exception and the actual view snapshot.",
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
   "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
@@ -4019,6 +4019,136 @@
           "evidence_url": "https://x.com/AndyL5cc/status/2104393662893601107"
         }
       ]
+    },
+    {
+      "id": "2107086714820870617",
+      "category": "art",
+      "title": {
+        "en": "Blender Character Animation and Music",
+        "zh-CN": "Blender 角色动画与配乐"
+      },
+      "description": {
+        "en": "A 16.5-second character animation whose creator says Fable 5.5 handled the music, models, animation and rigging in Blender.",
+        "zh-CN": "一支 16.5 秒角色动画；作者称 Fable 5.5 在 Blender 中完成了配乐、模型、动画与绑定。"
+      },
+      "creator": {
+        "name": "Jayden Davis",
+        "handle": "JaydenDavisNC"
+      },
+      "original_post_url": "https://x.com/JaydenDavisNC/status/2107086714820870617",
+      "demo_url": "https://x.com/JaydenDavisNC/status/2107086714820870617/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2107086270514044928/vid/avc1/1920x1080/1fzt_Pa3IR1DiPwf.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107086270514044928/img/zujM-sQh4dqJNAEW.jpg",
+      "duration_seconds": 16.5,
+      "views": 193599,
+      "views_checked_at": "2026-10-06T09:18:31Z",
+      "views_source_url": "https://api.fxtwitter.com/JaydenDavisNC/status/2107086714820870617",
+      "model_attribution": "Fable 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Blender"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/JaydenDavisNC/status/2107086714820870617&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/JaydenDavisNC/status/2107086714820870617",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 58,
+      "github_video_url": "https://github.com/user-attachments/assets/fafad042-b196-4f7e-b76d-785c905b12b8",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2107086270514044928/vid/avc1/1280x720/AdiYNb7YVujcWcWB.mp4?tag=29",
+        "filesize_bytes": 2245467,
+        "source_filesize_bytes": 2245467,
+        "duration_seconds": 16.554667,
+        "source_duration_seconds": 16.554667,
+        "width": 1280,
+        "height": 720,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "75b31dfe6c63596adbc9bac8d55f6d97a113d1add91825d8127f612616fc1edc"
+      },
+      "resources": []
+    },
+    {
+      "id": "2107108802440900621",
+      "category": "art",
+      "title": {
+        "en": "One-Shot Pixel Boss-Fight Game",
+        "zh-CN": "一次生成的像素 Boss 战游戏"
+      },
+      "description": {
+        "en": "A playable pixel game starring Clawd, with bug enemies and boss fights; the creator describes it as a one-shot Fable 5.5 build.",
+        "zh-CN": "一款可玩的像素游戏，主角 Clawd 会对抗虫子与 Boss；作者称它由 Fable 5.5 一次生成。"
+      },
+      "creator": {
+        "name": "bluedev",
+        "handle": "blueemi99"
+      },
+      "original_post_url": "https://x.com/blueemi99/status/2107108802440900621",
+      "demo_url": "https://x.com/blueemi99/status/2107108802440900621/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2107108711537745920/vid/avc1/1920x1080/HeTZZUY3Q7j8DBGG.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107108711537745920/img/0e0hH7adfbKywwB8.jpg",
+      "duration_seconds": 83.648,
+      "views": 47363,
+      "views_checked_at": "2026-10-06T09:18:31Z",
+      "views_source_url": "https://api.fxtwitter.com/blueemi99/status/2107108802440900621",
+      "model_attribution": "Claude Fable 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Claude Artifact"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": "https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ",
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/blueemi99/status/2107108802440900621&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/blueemi99/status/2107108802440900621",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 59,
+      "github_video_url": "https://github.com/user-attachments/assets/62c460d2-5b37-4cec-b984-bf13651c0d5b",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2107108711537745920/vid/avc1/640x360/yYIPQDKKQH4kvRON.mp4?tag=29",
+        "filesize_bytes": 4303386,
+        "source_filesize_bytes": 4303386,
+        "duration_seconds": 83.690667,
+        "source_duration_seconds": 83.690667,
+        "width": 640,
+        "height": 360,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "b638160e58eaf7ad68b7c2a0f83137830ff44957e70984f27425cf9590c06108"
+      },
+      "resources": [
+        {
+          "kind": "implementation",
+          "url": "https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ",
+          "label_en": "Playable artifact",
+          "label_zh": "可玩 Artifact",
+          "description_en": "The original post links the live artifact shown in the video.",
+          "description_zh": "原帖提供了视频中游戏的可玩 Artifact 链接。",
+          "evidence_url": "https://api.fxtwitter.com/blueemi99/status/2107108802440900621"
+        }
+      ]
     }
   ],
   "hero": {
@@ -4123,5 +4253,5 @@
       }
     ]
   },
-  "updated_on": "2026-09-28"
+  "updated_on": "2026-10-06"
 }

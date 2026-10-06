@@ -419,6 +419,20 @@ https://github.com/user-attachments/assets/e4525e9b-5aa6-46d4-8a58-6edc3fd8c0ca
 
 [Workflow and free prompt](https://x.com/SouranyPhomhome/status/2103601563428077906) — The creator reports three iterations: shapes first, detailed textures second, and interactions third.
 
+### Blender Character Animation and Music
+
+https://github.com/user-attachments/assets/fafad042-b196-4f7e-b76d-785c905b12b8
+
+[Original post](https://x.com/JaydenDavisNC/status/2107086714820870617)
+
+### One-Shot Pixel Boss-Fight Game
+
+https://github.com/user-attachments/assets/62c460d2-5b37-4cec-b984-bf13651c0d5b
+
+[Original post](https://x.com/blueemi99/status/2107108802440900621)
+
+[Playable artifact](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) — The original post links the live game shown in the video.
+
 <a id="production"></a>
 
 ## Music, documentaries & video editing

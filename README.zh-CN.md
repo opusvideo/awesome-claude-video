@@ -419,6 +419,20 @@ https://github.com/user-attachments/assets/e4525e9b-5aa6-46d4-8a58-6edc3fd8c0ca
 
 [流程与免费提示词](https://x.com/SouranyPhomhome/status/2103601563428077906) — 作者说明共迭代三轮：先处理造型，再加入细致纹理，最后补上交互。
 
+### Blender 角色动画与配乐
+
+https://github.com/user-attachments/assets/fafad042-b196-4f7e-b76d-785c905b12b8
+
+[原帖](https://x.com/JaydenDavisNC/status/2107086714820870617)
+
+### 一次生成的像素 Boss 战游戏
+
+https://github.com/user-attachments/assets/62c460d2-5b37-4cec-b984-bf13651c0d5b
+
+[原帖](https://x.com/blueemi99/status/2107108802440900621)
+
+[可玩 Artifact](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) — 原帖提供了视频中游戏的可玩版本。
+
 <a id="production"></a>
 
 ## 音乐、纪录片与视频编辑
