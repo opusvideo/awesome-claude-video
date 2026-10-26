@@ -153,6 +153,12 @@ https://github.com/user-attachments/assets/54824928-3240-4c41-9f5c-a6043fa5c249
 
 **提示词摘要:** 制作一支 15 秒的动态设计履历作品集短片，并充分发挥。
 
+### 温馨咖啡店网站概念
+
+https://github.com/user-attachments/assets/5f471e33-abcf-4896-bc94-ae7c8f536782
+
+[原帖](https://x.com/DilumSanjaya/status/2111864428010582082)
+
 <a id="education"></a>
 
 ## 科普教学与知识讲解
@@ -432,6 +438,20 @@ https://github.com/user-attachments/assets/62c460d2-5b37-4cec-b984-bf13651c0d5b
 [原帖](https://x.com/blueemi99/status/2107108802440900621)
 
 [可玩 Artifact](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) — 原帖提供了视频中游戏的可玩版本。
+
+### 代码构建的古希腊世界
+
+https://github.com/user-attachments/assets/9951cae3-40fe-4d2e-b513-a0a77f421f21
+
+[原帖](https://x.com/LexnLin/status/2111582260818239777)
+
+**提示词摘要:** 要求 Opus 5.5 尽可能细致地构建古希腊世界，并用代码代替外部素材。
+
+### 30 分钟制作 Roblox 法术特效
+
+https://github.com/user-attachments/assets/048b50e2-171f-4a9a-8760-2166e71ce284
+
+[原帖](https://x.com/JohnKlerAI/status/2114410185464934722)
 
 <a id="production"></a>
 

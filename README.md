@@ -153,6 +153,12 @@ https://github.com/user-attachments/assets/54824928-3240-4c41-9f5c-a6043fa5c249
 
 **Prompt brief:** Make a dynamic 15-second motion-graphics résumé showreel and go all out.
 
+### Cozy Coffee-Shop Website Concept
+
+https://github.com/user-attachments/assets/5f471e33-abcf-4896-bc94-ae7c8f536782
+
+[Original post](https://x.com/DilumSanjaya/status/2111864428010582082)
+
 <a id="education"></a>
 
 ## Education & explainers
@@ -432,6 +438,20 @@ https://github.com/user-attachments/assets/62c460d2-5b37-4cec-b984-bf13651c0d5b
 [Original post](https://x.com/blueemi99/status/2107108802440900621)
 
 [Playable artifact](https://claude.ai/artifact/Bor4eKVfaKakr6QSfoT8UZ) — The original post links the live game shown in the video.
+
+### Code-Built Ancient Greek World
+
+https://github.com/user-attachments/assets/9951cae3-40fe-4d2e-b513-a0a77f421f21
+
+[Original post](https://x.com/LexnLin/status/2111582260818239777)
+
+**Prompt brief:** Ask Opus 5.5 to build an ancient Greek world in as much detail as possible, using code instead of external assets.
+
+### Roblox Spell VFX in 30 Minutes
+
+https://github.com/user-attachments/assets/048b50e2-171f-4a9a-8760-2166e71ce284
+
+[Original post](https://x.com/JohnKlerAI/status/2114410185464934722)
 
 <a id="production"></a>
 

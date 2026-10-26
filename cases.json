@@ -5,7 +5,7 @@
     "en",
     "zh-CN"
   ],
-  "curated_on": "2026-10-06",
+  "curated_on": "2026-10-25",
   "inclusion_rule": "Normally, original X video posts with reported views strictly greater than 10,000 at the recorded check time. Explicit maintainer selections may be included with a curation_exception and the actual view snapshot.",
   "verification_scope": "Official X oEmbed text and public video metadata were checked. View counts come from the linked public metadata snapshots; selected posts were also inspected in the signed-in X browser. Model use is creator-reported. Videos have not been independently reproduced or fully fact-checked.",
   "media_policy": "GitHub-hosted playback copies are provided for in-page demonstrations and may be compressed. Each case retains its original video URL, X post, creator attribution and original view snapshot. Original media remain subject to their creators' rights and licenses; inclusion grants no new license.",
@@ -4149,6 +4149,193 @@
           "evidence_url": "https://api.fxtwitter.com/blueemi99/status/2107108802440900621"
         }
       ]
+    },
+    {
+      "id": "2111864428010582082",
+      "category": "motion",
+      "title": {
+        "en": "Cozy Coffee-Shop Website Concept",
+        "zh-CN": "温馨咖啡店网站概念"
+      },
+      "description": {
+        "en": "A 63-second walkthrough of a warm, illustrated coffee-shop website concept that the creator says was made with Opus 5.5.",
+        "zh-CN": "一段 63 秒的温馨插画风咖啡店网站概念演示，作者称其使用 Opus 5.5 制作。"
+      },
+      "creator": {
+        "name": "Dilum Sanjaya",
+        "handle": "DilumSanjaya"
+      },
+      "original_post_url": "https://x.com/DilumSanjaya/status/2111864428010582082",
+      "demo_url": "https://x.com/DilumSanjaya/status/2111864428010582082/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2111862534148075520/vid/avc1/3456x1990/n53lvY8tdzGfalTQ.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111862534148075520/img/kXP1lCI-mN4RnHSj.jpg",
+      "duration_seconds": 63.123,
+      "views": 253890,
+      "views_checked_at": "2026-10-26T01:39:14Z",
+      "views_source_url": "https://api.fxtwitter.com/DilumSanjaya/status/2111864428010582082",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/DilumSanjaya/status/2111864428010582082&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/DilumSanjaya/status/2111864428010582082",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 60,
+      "github_video_url": "https://github.com/user-attachments/assets/5f471e33-abcf-4896-bc94-ae7c8f536782",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2111862534148075520/vid/avc1/3456x1990/n53lvY8tdzGfalTQ.mp4?tag=29",
+        "filesize_bytes": 4467757,
+        "source_filesize_bytes": 58771763,
+        "duration_seconds": 63.125,
+        "source_duration_seconds": 63.125,
+        "width": 960,
+        "height": 552,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "has_audio": false,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "716a354466d56ede0fa13bb42207f8533f8d4c68506ac78413192174c8048176"
+      },
+      "resources": []
+    },
+    {
+      "id": "2111582260818239777",
+      "category": "art",
+      "title": {
+        "en": "Code-Built Ancient Greek World",
+        "zh-CN": "代码构建的古希腊世界"
+      },
+      "description": {
+        "en": "A 54-second flythrough of a detailed ancient Greek world that the creator says Opus 5.5 built entirely with code and no assets.",
+        "zh-CN": "一段 54 秒的古希腊世界漫游；作者称 Opus 5.5 未使用素材，完全通过代码构建画面。"
+      },
+      "creator": {
+        "name": "Leon Lin",
+        "handle": "LexnLin"
+      },
+      "original_post_url": "https://x.com/LexnLin/status/2111582260818239777",
+      "demo_url": "https://x.com/LexnLin/status/2111582260818239777/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2111581258383794177/vid/avc1/1920x1080/zth-UyAONCqs3Dru.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2111581258383794177/img/5dlK_lrTgipJeqHf.jpg",
+      "duration_seconds": 54.3,
+      "views": 245767,
+      "views_checked_at": "2026-10-26T01:39:14Z",
+      "views_source_url": "https://api.fxtwitter.com/LexnLin/status/2111582260818239777",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Code; language unknown"
+      ],
+      "prompt_or_brief_url": "https://x.com/LexnLin/status/2111582260818239777",
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/LexnLin/status/2111582260818239777&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/LexnLin/status/2111582260818239777",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 61,
+      "github_video_url": "https://github.com/user-attachments/assets/9951cae3-40fe-4d2e-b513-a0a77f421f21",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2111581258383794177/vid/avc1/1920x1080/zth-UyAONCqs3Dru.mp4?tag=29",
+        "filesize_bytes": 9555151,
+        "source_filesize_bytes": 46405032,
+        "duration_seconds": 54.357,
+        "source_duration_seconds": 54.357333,
+        "width": 960,
+        "height": 540,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": true,
+        "sha256": "5da39f2d22c7ecf9e8d937d0b6bcca61ddf4b5fdfc88024b6aa40244febbc43b"
+      },
+      "resources": [
+        {
+          "kind": "prompt",
+          "url": "https://x.com/LexnLin/status/2111582260818239777",
+          "label_en": "Prompt brief",
+          "label_zh": "提示词摘要",
+          "description_en": "Ask Opus 5.5 to build an ancient Greek world in as much detail as possible, using code instead of external assets.",
+          "description_zh": "要求 Opus 5.5 尽可能细致地构建古希腊世界，并用代码代替外部素材。",
+          "evidence_url": "https://api.fxtwitter.com/LexnLin/status/2111582260818239777"
+        }
+      ]
+    },
+    {
+      "id": "2114410185464934722",
+      "category": "art",
+      "title": {
+        "en": "Roblox Spell VFX in 30 Minutes",
+        "zh-CN": "30 分钟制作 Roblox 法术特效"
+      },
+      "description": {
+        "en": "A five-second Roblox spell-effect sequence that the creator says was made with Opus 5.5 in around 30 minutes.",
+        "zh-CN": "一段 5 秒的 Roblox 法术特效演示，作者称使用 Opus 5.5 在约 30 分钟内完成。"
+      },
+      "creator": {
+        "name": "John Kler",
+        "handle": "JohnKlerAI"
+      },
+      "original_post_url": "https://x.com/JohnKlerAI/status/2114410185464934722",
+      "demo_url": "https://x.com/JohnKlerAI/status/2114410185464934722/video/1",
+      "video_url": "https://video.twimg.com/amplify_video/2114410059702681600/vid/avc1/1920x1080/AO3LscFjoGNBv2kP.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2114410059702681600/img/TIaZo2rulCSKsPR5.jpg",
+      "duration_seconds": 5,
+      "views": 15204,
+      "views_checked_at": "2026-10-26T01:39:14Z",
+      "views_source_url": "https://api.fxtwitter.com/JohnKlerAI/status/2114410185464934722",
+      "model_attribution": "Claude Opus 5.5, as attributed by the original poster; not independently reproduced.",
+      "model_scope": "creator_attributed_claude_assisted_workflow",
+      "other_models": [],
+      "tools_reported": [
+        "Roblox"
+      ],
+      "prompt_or_brief_url": null,
+      "source_code_url": null,
+      "verification": {
+        "original_post_evidence_url": "https://publish.twitter.com/oembed?url=https://x.com/JohnKlerAI/status/2114410185464934722&omit_script=true",
+        "video_metadata_evidence_url": "https://api.fxtwitter.com/JohnKlerAI/status/2114410185464934722",
+        "video_attachment_confirmed": true,
+        "x_video_card_seen_in_system_browser": true,
+        "direct_video_playback_spot_checked": true,
+        "independently_reproduced": false
+      },
+      "number": 62,
+      "github_video_url": "https://github.com/user-attachments/assets/048b50e2-171f-4a9a-8760-2166e71ce284",
+      "playback_copy": {
+        "host": "GitHub user attachments",
+        "source_video_url": "https://video.twimg.com/amplify_video/2114410059702681600/vid/avc1/1920x1080/AO3LscFjoGNBv2kP.mp4?tag=29",
+        "filesize_bytes": 3957825,
+        "source_filesize_bytes": 3957825,
+        "duration_seconds": 5.056,
+        "source_duration_seconds": 5.056,
+        "width": 1920,
+        "height": 1080,
+        "video_codec": "h264",
+        "pixel_format": "yuv420p",
+        "audio_codec": "aac",
+        "has_audio": true,
+        "faststart": true,
+        "reencoded": false,
+        "sha256": "9ccb03b072b185a357228c007464b3dfb14aa87cb9d8164d2d1ed90584b222d3"
+      },
+      "resources": []
     }
   ],
   "hero": {
@@ -4253,5 +4440,5 @@
       }
     ]
   },
-  "updated_on": "2026-10-06"
+  "updated_on": "2026-10-25"
 }
